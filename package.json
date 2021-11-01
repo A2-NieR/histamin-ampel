@@ -1,0 +1,24 @@
+{
+  "name": "histamin-ampel",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.11"
+  },
+  "devDependencies": {
+    "@iconify/json": "^1.1.422",
+    "@vitejs/plugin-vue": "^1.9.4",
+    "typescript": "^4.4.4",
+    "unplugin-icons": "^0.12.17",
+    "vite": "^2.6.13",
+    "vite-plugin-pages": "^0.18.2",
+    "vite-plugin-windicss": "^1.4.12",
+    "vue-tsc": "^0.28.10",
+    "windicss": "^3.2.1"
+  }
+}
