@@ -17,6 +17,7 @@
     "unplugin-icons": "^0.12.17",
     "vite": "^2.6.13",
     "vite-plugin-pages": "^0.18.2",
+    "vite-plugin-pwa": "^0.11.3",
     "vite-plugin-windicss": "^1.4.12",
     "vue-tsc": "^0.28.10",
     "windicss": "^3.2.1"
