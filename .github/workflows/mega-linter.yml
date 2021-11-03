@@ -45,6 +45,15 @@ jobs:
           # ADD YOUR CUSTOM ENV VARIABLES HERE OR DEFINE THEM IN A FILE .mega-linter.yml AT THE ROOT OF YOUR REPOSITORY
           # DISABLE: COPYPASTE,SPELL
           # Uncomment to disable copy-paste and spell checks
+          PRINT_ALPACA: false
+          IGNORE_GITIGNORED_FILES: true
+          EXCLUDED_DIRECTORIES:
+            - node_modules
+            - cypress
+            - public
+            - dist
+          # FILTER_REGEX_EXCLUDE: (vite.config.ts|CHANGELOG.md)
+          SHOW_ELAPSED_TIME: true
 
       # Upload Mega-Linter artifacts
       - name: Archive production artifacts
