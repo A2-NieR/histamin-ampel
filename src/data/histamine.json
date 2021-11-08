@@ -1,0 +1,4851 @@
+{
+  "Eier": {
+    "name": "Eier",
+    "list": [
+      {
+        "name": "Eidotter/Eigelb",
+        "emoji": "🍳",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Eier, Hühnerei, Vollei",
+        "emoji": "🥚",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Eigelb ist verträglich, Eiklar kann vor allem roh, aber auch gekocht mastzellaktivierend sein."
+      },
+      {
+        "name": "Eiklar, Eiweiss, Eiweiß",
+        "emoji": "🍳",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Vor allem roh, aber sogar gekocht mastzellaktivierend."
+      },
+      {
+        "name": "Wachteleier",
+        "emoji": "🥚",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Milchprodukte": {
+    "name": "Milchprodukte",
+    "list": [
+      {
+        "name": "Blauschimmelkäse",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Butter: Sauerrahmbutter, mildgesäuerte Butter",
+        "emoji": "🧈",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann geringe Mengen Histamin enthalten. Meist ausreichend verträglich."
+      },
+      {
+        "name": "Butter: Süßrahmbutter, Süssrahmbutter",
+        "emoji": "🧈",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Süßrahmbutter ist die normale Butter aus frischem, nicht mit Bakterien angesäuertem Rahm."
+      },
+      {
+        "name": "Butterkäse",
+        "emoji": "🧀",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Buttermilch, angesäuert",
+        "emoji": "🥛",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Milchsäuregärung"
+      },
+      {
+        "name": "Cheddar Käse",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Crème Fraïche, Creme Fraiche",
+        "emoji": "🥛",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Milchsäuregärung! Schwach histaminhaltig."
+      },
+      {
+        "name": "Edelschimmelkäse",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Feta Käse",
+        "emoji": "🧀",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Fontina Käse",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Frischkäse",
+        "emoji": "🧀",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gouda Käse, gereift",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gouda Käse, jung",
+        "emoji": "🧀",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Grosse Mengen evtl. unverträglich"
+      },
+      {
+        "name": "Haltbarmilch, H-Milch, UHT-Milch, Up-Milch",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Grundsätzlich verträglich. Wird meist sehr lange und ungekühlt gelagert."
+      },
+      {
+        "name": "Joghurt natur",
+        "emoji": "🥄",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Je nach Produkt unterschiedlich."
+      },
+      {
+        "name": "Käse: lange gereifte Sorten und Hartkäse (z.B. Emmentaler)",
+        "emoji": "🧀",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Käsezubereitungen (=Mischungen mit weiteren Zutaten)",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "?",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Abhängig von Zutaten und Frische."
+      },
+      {
+        "name": "Kefir",
+        "emoji": "🥛",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mascarpone Käse",
+        "emoji": "⚪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Milch, laktosefrei",
+        "emoji": "🥛",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Evtl. leicht histaminhaltig, nur geringfügig schlechter verträglich als normale Milch."
+      },
+      {
+        "name": "Milch, pasteurisiert (PAST-Milch)",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Milch kann unverträglich sein, solange der Darm noch gereizt ist."
+      },
+      {
+        "name": "Milchpulver",
+        "emoji": "⬜",
+        "verträglichkeit": 1,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Uneinheitlich. Kann auch verträglich sein."
+      },
+      {
+        "name": "Molke",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mozzarella Käse",
+        "emoji": "⚪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sahne (wenn ohne Zusatzstoffe)",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Unfermentiert, ohne Zusatzstoffe. Vorsicht: meist mit unverträglichen Verdickungsmitteln/Stabilisatoren, z.B. E407, E410!"
+      },
+      {
+        "name": "Quark",
+        "emoji": "⬜",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rahm, süß (wenn ohne Zusatzstoffe)",
+        "emoji": "🥛",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Unfermentiert, ohne Zusatzstoffe. Vorsicht: meist mit unverträglichen Verdickungsmitteln/Stabilisatoren, z.B. E407, E410!"
+      },
+      {
+        "name": "Ricotta Käse",
+        "emoji": "⚪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rohmilch",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Verderblicher wegen höherer Keimzahl. Nur ganz frisch verwenden."
+      },
+      {
+        "name": "Rohmilchkäse",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Je nach Hygiene. Risiko höher als bei Käse aus pasteurisierter Milch."
+      },
+      {
+        "name": "Rohmilchprodukte",
+        "emoji": "🥛",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Roquefort Käse",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sahne, süß (wenn ohne Zusatzstoffe)",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Unfermentiert, ohne Zusatzstoffe. Vorsicht: meist mit unverträglichen Verdickungsmitteln/Stabilisatoren, z.B. E407, E410!"
+      },
+      {
+        "name": "Sauerrahm",
+        "emoji": "🥛",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Milchsäuregärung! Schwach histaminhaltig."
+      },
+      {
+        "name": "Saure Sahne",
+        "emoji": "🥛",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Milchsäuregärung! Schwach histaminhaltig."
+      },
+      {
+        "name": "Schafmilch, Schafsmilch",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schimmelkäse",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schlagsahne (wenn ohne Zusatzstoffe)",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Unfermentiert, ohne Zusatzstoffe. Vorsicht: meist mit unverträglichen Verdickungsmitteln/Stabilisatoren, z.B. E407, E410!"
+      },
+      {
+        "name": "Schmelzkäse",
+        "emoji": "🧀",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Süssrahm, Süßrahm (wenn ohne Zusatzstoffe)",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Unfermentiert, ohne Zusatzstoffe. Vorsicht: meist mit unverträglichen Verdickungsmitteln/Stabilisatoren, z.B. E407, E410!"
+      },
+      {
+        "name": "UHT-Milch, Up-Milch, H-Milch, Haltbarmilch",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Grundsätzlich verträglich. Wird meist sehr lange und ungekühlt gelagert."
+      },
+      {
+        "name": "Ziegenmilch",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Fleisch": {
+    "name": "Fleisch",
+    "list": [
+      {
+        "name": "Ente",
+        "emoji": "🦆",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Hackfleisch, bei Verzehr unmittelbar nach Herstellung",
+        "emoji": "🍖",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sehr stark von der Frische abhängig!"
+      },
+      {
+        "name": "Hackfleisch, Offenverkauf oder unter Schutzatmosphäre",
+        "emoji": "🍖",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Geflügelfleisch",
+        "emoji": "🍗",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Huhn, Hähnchen, Hühnchen, Hendl",
+        "emoji": "🐔",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Innereien",
+        "emoji": "🍖",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kalbfleisch, frisch",
+        "emoji": "🥩",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Pute",
+        "emoji": "🍗",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Räucherfleisch, Rauchfleisch",
+        "emoji": "🥓",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rindfleisch, frisch",
+        "emoji": "🥩",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rohschinken",
+        "emoji": "🍖",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Salami",
+        "emoji": "🌭",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schweinefleisch, frisch, unbehandelt",
+        "emoji": "🐖",
+        "verträglichkeit": 1,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Umstritten. Kann auch gut verträglich sein. Sehr verderblich. Histaminliberator-->Juckreiz?"
+      },
+      {
+        "name": "Strauss, Strauß",
+        "emoji": "🍗",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Trockenfleisch",
+        "emoji": "🥓",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wachtel",
+        "emoji": "🍗",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wild",
+        "emoji": "🦌",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Fleischreifung. Frisches Wildschwein ist verträglich."
+      },
+      {
+        "name": "Wurst, Wurstwaren",
+        "emoji": "🌭",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Wenige halbwegs verträgliche Ausnahmen sind möglich."
+      },
+      {
+        "name": "Zunge, Rindszunge, Kalbszunge",
+        "emoji": "👅",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Bei fixfertig gekochter und gewürzter Zunge auf unverträgliche Zusatzstoffe achten! Keine geräucherten Produkte!"
+      }
+    ]
+  },
+  "Fisch": {
+    "name": "Fisch",
+    "list": [
+      {
+        "name": "Anchovis, Sardellen-Konserven",
+        "emoji": "🥫",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Fisch, Frischfisch vom Kühlregal / auf Eis",
+        "emoji": "🐟",
+        "verträglichkeit": 3,
+        "histamin": "H!",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sehr stark von Frische und Art abhängig!"
+      },
+      {
+        "name": "Fisch, fangfrisch oder tiefgekühlt",
+        "emoji": "🧊",
+        "verträglichkeit": 3,
+        "histamin": "H!",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sehr stark von Frische und Art abhängig!"
+      },
+      {
+        "name": "Forellen (Süsswasser): Seeforelle, Bachforelle, Regenbogenforelle, Lachsforelle",
+        "emoji": "🐟",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Verderblich. Rasche Histaminbildung."
+      },
+      {
+        "name": "Geräucherter Fisch",
+        "emoji": "🐟",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sardellen-Konserven, Sardellenpaste, Anchovis",
+        "emoji": "🥫",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Thunfisch",
+        "emoji": "🐟",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Meeresfrüchte": {
+    "name": "Meeresfrüchte",
+    "list": [
+      {
+        "name": "Austern",
+        "emoji": "🦪",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Crevetten, Krevetten",
+        "emoji": "🍤",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Garnelen",
+        "emoji": "🍤",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Hummer",
+        "emoji": "🦞",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Krabben",
+        "emoji": "🦀",
+        "verträglichkeit": 0,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Krebse",
+        "emoji": "🦀",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Krustentiere, Schalentiere",
+        "emoji": "🦐",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "(z.B. Muscheln, Austern, Krebse, Krabben, Hummer, Krevetten, Garnelen, Langusten)"
+      },
+      {
+        "name": "Langusten",
+        "emoji": "🦐",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Meeresfrüchte (wirbellose Meerestiere)",
+        "emoji": "🐙",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Muscheln",
+        "emoji": "🐚",
+        "verträglichkeit": 2,
+        "histamin": "H!",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "(Miesmuschel, Austern, Venusmuschel, Kammmuschel, Jakobsmuschel, ...)"
+      }
+    ]
+  },
+  "Diverses": {
+    "name": "Diverses",
+    "list": [
+      {
+        "name": "Schmalz, Schweineschmalz",
+        "emoji": "🥫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+
+  "Stärkelieferanten": {
+    "name": "Stärkelieferanten",
+    "list": [
+      {
+        "name": "Amarant",
+        "emoji": "🌾",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann evtl. vereinzelt Durchfall verursachen. Gemeint ist das Pseudogetreide Amarant (meist ohne 'h' geschrieben) aus der Pflanzengattung Amaranthus. Nicht verwechseln mit dem Azofarbstoff Amaranth (mit 'h' geschrieben), ein künstlicher Lebensmittelfarbstoff."
+      },
+      {
+        "name": "Backwaren",
+        "emoji": "🥐",
+        "verträglichkeit": 1,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Problematisch: Malz, Hefegärung/Sauerteig bei langer Teigführungszeit, evtl. ATI-Getreide, Jodzusatz, etc."
+      },
+      {
+        "name": "Brot",
+        "emoji": "🍞",
+        "verträglichkeit": 1,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Problematisch: Malz, Hefegärung/Sauerteig bei langer Teigführungszeit, evtl. ATI-Getreide, Jodzusatz, etc."
+      },
+      {
+        "name": "Buchweizen",
+        "emoji": "🌾",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Nur unverträglich, wenn nicht gründlich geschält?"
+      },
+      {
+        "name": "Cornflakes (ohne Malz, Folsäure oder andere Zusätze)",
+        "emoji": "🌽",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "!",
+        "blocker": "",
+        "anmerkungen": "Vorsicht bei Malz, Folsäure."
+      },
+      {
+        "name": "Dinkel",
+        "emoji": "🌾",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Alte Sorten verträglich, moderne ATI-Sorten evtl. nur mässig verträglich."
+      },
+      {
+        "name": "Edelkastanien, Esskastanien, Maroni, Maronen frisch oder tiefgekühlt",
+        "emoji": "🌰",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gerste",
+        "emoji": "🌾",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gerstenmalz, Malz",
+        "emoji": "🌾",
+        "verträglichkeit": 2,
+        "histamin": "?",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Hafer",
+        "emoji": "🌾",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Einige Sorten können manchmal nur halbwegs verträglich sein."
+      },
+      {
+        "name": "Hanfproteinpulver",
+        "emoji": "🍃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Hanfsamen (Cannabis sativa)",
+        "emoji": "🌱",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Hirse",
+        "emoji": "🌾",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kartoffeln",
+        "emoji": "🥔",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Dunkel lagern! Grüne Stellen sind giftig! Evtl. unverträglich bei Salicylsäure-Unverträglichkeit."
+      },
+      {
+        "name": "Mais getrocknet: Maisgriess, Maisgrieß, Maismehl, Maisdunst",
+        "emoji": "🌽",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mais aus der Dose, Dosenmais",
+        "emoji": "🌽",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Schwer verdaulich. Evtl. unverträglich bei zu langer Lagerung oder in grossen Mengen?"
+      },
+      {
+        "name": "Maiskörner, Maiskolben frisch/pasteurisiert",
+        "emoji": "🌽",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Schwer verdaulich."
+      },
+      {
+        "name": "Maltodextrin",
+        "emoji": "🧂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Perlsago, Sago",
+        "emoji": "🧂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Quinoa",
+        "emoji": "🌾",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Evtl. nicht einwandfrei verträglich?"
+      },
+      {
+        "name": "Reis",
+        "emoji": "🍚",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Gekocht max. 12-24 h bei 4°C haltbar."
+      },
+      {
+        "name": "Reisnudeln",
+        "emoji": "🍜",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Etwas schlechter verträglich als frisch gekochter Reis. Gekocht max. 12-24 h bei 4°C haltbar."
+      },
+      {
+        "name": "Reiswaffeln, Reis-Mais-Waffeln",
+        "emoji": "🧇",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Etwas schlechter verträglich als frisch gekochter Reis."
+      },
+      {
+        "name": "Rice Crispies",
+        "emoji": "🍪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Vorsicht bei Malz, Folsäure."
+      },
+      {
+        "name": "Roggen",
+        "emoji": "🌾",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Nur knapp verträglich."
+      },
+      {
+        "name": "Sonnenblumenkerne",
+        "emoji": "🌻",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Süsskartoffel, Süßkartoffel",
+        "emoji": "🍠",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Weizen",
+        "emoji": "🌾",
+        "verträglichkeit": 1,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Uneinheitlich. Vorwiegend Verdauungsprobleme wie Blähungen."
+      },
+      {
+        "name": "Weizenkeime",
+        "emoji": "🌱",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Putrescin, Spermin, Spermidin, Cadaverin"
+      },
+      {
+        "name": "Wildreis",
+        "emoji": "🍚",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Wildreis ist botanisch nicht mit dem Reis verwandt."
+      }
+    ]
+  },
+  "Nüsse": {
+    "name": "Nüsse",
+    "list": [
+      {
+        "name": "Baumnuss",
+        "emoji": "🌰",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Cashewnüsse, Cashewkerne",
+        "emoji": "🥜",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Erdmandel (Cyperus esculentus)",
+        "emoji": "🌰",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Eigentlich keine Nuss, sondern Wurzelknolle (Verdickungen der Stolonen)."
+      },
+      {
+        "name": "Erdmandel, geröstet",
+        "emoji": "🌰",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Eigentlich keine Nuss, sondern Wurzelknolle (Verdickungen der Stolonen)."
+      },
+      {
+        "name": "Erdnüsse, Erdnuss",
+        "emoji": "🥜",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Haselnuss",
+        "emoji": "🌰",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Macadamia-Nuss",
+        "emoji": "🌰",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mandeln",
+        "emoji": "🌰",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen gut verträglich. Kann z.B. Schlafprobleme verursachen."
+      },
+      {
+        "name": "Paranuss",
+        "emoji": "🌰",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Pinienkerne",
+        "emoji": "🥖",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Mehrere Arten. Vielleicht nicht alle gleich gut verträglich?"
+      },
+      {
+        "name": "Pistazie",
+        "emoji": "🌰",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Tigernuss (Cyperus esculentus)",
+        "emoji": "🌰",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Eigentlich keine Nuss, sondern Wurzelknolle (Verdickungen der Stolonen)."
+      },
+      {
+        "name": "Walnuss",
+        "emoji": "🌰",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Fette und Öle": {
+    "name": "Fette & Öle",
+    "list": [
+      {
+        "name": "Baumnussöl",
+        "emoji": "🧴",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Distelöl, Färberdistelöl, Safloröl",
+        "emoji": "🧴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kokosfett, Kokosöl, Kokosnussfett, Kokosnussöl",
+        "emoji": "🥥",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sehr empfehlenswert."
+      },
+      {
+        "name": "Kürbiskernöl",
+        "emoji": "🎃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Margarine",
+        "emoji": "🧈",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Auf unverträgliche Zusatzstoffe achten!"
+      },
+      {
+        "name": "Olivenöl",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Unverträglich bei Salicylat-Unverträglichkeit."
+      },
+      {
+        "name": "Palmöl, Palmfett, Palmkernöl",
+        "emoji": "🌴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sollte aus ökologischen Gründen nicht gekauft werden. Ansonsten empfehlenswert."
+      },
+      {
+        "name": "Rapsöl",
+        "emoji": "🌾",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schwarzkümmelöl (Nigella sativa)",
+        "emoji": "🧴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Positive Wirkung: Antiallergische Eigenschaften."
+      },
+      {
+        "name": "Sonnenblumenöl",
+        "emoji": "🌻",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Einmalig unproblematisch, aber langfristig entzündungsfördernd."
+      },
+      {
+        "name": "Walnussöl",
+        "emoji": "🌰",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Gemüse": {
+    "name": "Gemüse",
+    "list": [
+      {
+        "name": "Ackerbohne (Vicia faba)",
+        "emoji": "🟢",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Ackersalat",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Artischocke",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Aubergine",
+        "emoji": "🍆",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "?",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Bambussprossen",
+        "emoji": "🌱",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Blattsalate",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Bewertung gilt für die Blätter ohne Sauce."
+      },
+      {
+        "name": "Blaukraut",
+        "emoji": "🟣",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Bleichsellerie",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Blumenkohl",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Bohnen, diverse Arten",
+        "emoji": "🟢",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Gilt für praktisch alle Arten/Sorten. Evtl. halbwegs verträgliche Ausnahmen möglich."
+      },
+      {
+        "name": "Borlotti-Bohnen",
+        "emoji": "🟢",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Buschbohnen, Grüne Bohnen",
+        "emoji": "🟢",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann in einigen Fällen gut verträglich sein."
+      },
+      {
+        "name": "Brennnessel",
+        "emoji": "🌿",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Brokkoli",
+        "emoji": "🥦",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Chicorée (Cichorium intybus)",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Chili, rot, frisch",
+        "emoji": "🌶",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Reizende Schärfe."
+      },
+      {
+        "name": "Chinakohl",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Cornichons, eingelegt",
+        "emoji": "🥒",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Eisbergsalat",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Endiviensalat, Endivie (Cichorium endivia)",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gartenerbsen",
+        "emoji": "🟢",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gelbe Spalterbse",
+        "emoji": "🟡",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Grüne Spalterbse",
+        "emoji": "🟢",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Essiggemüse",
+        "emoji": "🥫",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Essiggurken, Gewürzgurken, eingelegt",
+        "emoji": "🥒",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Favabohne (Vicia faba)",
+        "emoji": "🟢",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Feldsalat",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Fenchel",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gurken: Salatgurke",
+        "emoji": "🥒",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Herbstrübe",
+        "emoji": "🥕",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Hülsenfrüchte (Soja, Bohnen, Erbsen, Linsen...)",
+        "emoji": "🟠",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kaiserschote",
+        "emoji": "🥬",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kraut, Weißkohl",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Karotte",
+        "emoji": "🥕",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kelp (Seetang, Riesentang, eine Alge)",
+        "emoji": "🍃",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "z.B. als Zutat in Kräutersalz"
+      },
+      {
+        "name": "Kichererbse",
+        "emoji": "🟡",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Knoblauch",
+        "emoji": "🧄",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "In kleinen Mengen meist gut verträglich, wenn gekocht."
+      },
+      {
+        "name": "Kohlrabi",
+        "emoji": "🥬",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kohlsorten (außer Rosenkohl, Kohlrabi)",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kohlsprossen, Rosenkohl",
+        "emoji": "🟢",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Krautstiele (Beta vulgaris subsp. vulgaris)",
+        "emoji": "🥬",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kresse: Gartenkresse (Lepidium sativum)",
+        "emoji": "☘",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kürbisse, div. Sorten",
+        "emoji": "🎃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Lauch",
+        "emoji": "🥬",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "In kleineren Mengen meist gut verträglich."
+      },
+      {
+        "name": "Linsen",
+        "emoji": "🟠",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mangold",
+        "emoji": "🥬",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Meerrettich",
+        "emoji": "🍠",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Melanzani, Melanzana",
+        "emoji": "🥬",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "?",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Möhre, Mohrrübe",
+        "emoji": "🥕",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mungbohnen (-keimlinge/-sprossen)",
+        "emoji": "🌱",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Keimlinge der Mung-Bohne werden oft fälschlich als Sojasprossen bezeichnet."
+      },
+      {
+        "name": "Oliven",
+        "emoji": "⚫",
+        "verträglichkeit": 2,
+        "histamin": "?",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Von Natur aus vermutlich verträglich, aber meist fermentiert."
+      },
+      {
+        "name": "Pak Choi",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Paprika, Peperoni, milde Sorten",
+        "emoji": "🌶",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Paprika, Peperoni, scharfe Sorten",
+        "emoji": "🌶",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Tomaten",
+        "emoji": "🍅",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Pastinaken",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Porree",
+        "emoji": "🥬",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "In kleineren Mengen meist gut verträglich."
+      },
+      {
+        "name": "Radieschen",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rettich: Bierrettich, mild",
+        "emoji": "🍠",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rosenkohl",
+        "emoji": "🟢",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rote Bete, Rote Beete",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rotkohl",
+        "emoji": "🟣",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rucola, Rukola",
+        "emoji": "🌿",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Saubohne (Vicia faba)",
+        "emoji": "🟢",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sauerkraut",
+        "emoji": "🥬",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schweinsbohne (Vicia faba)",
+        "emoji": "🟢",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sellerie: Knollensellerie",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Senfkohl",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Soja (Sojabohne, Sojamehl)",
+        "emoji": "🟡",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sojasprossen [irrtümliche Bezeichnung. Korrekt: Mung-Sprossen]",
+        "emoji": "🌱",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Keimlinge der Mung-Bohne werden oft fälschlich als Sojasprossen bezeichnet."
+      },
+      {
+        "name": "Spargel",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Speiserübe",
+        "emoji": "🥕",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Spinat",
+        "emoji": "🥬",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Stangensellerie",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Weisskohl, Weisskabis, Weisskraut, Weißkohl, Weißkabis, Weißkraut",
+        "emoji": "🥬",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wirsing",
+        "emoji": "🥬",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wilde Rauke",
+        "emoji": "🌿",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Zucchini, Zucchetti",
+        "emoji": "🥒",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Zuckererbse, Zuckerschote",
+        "emoji": "🟢",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Zwiebel: Weisse Zwiebel, Weiße Zwiebel",
+        "emoji": "🧅",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Schneeweisse Schale (NICHT die Küchenzwiebel)"
+      },
+      {
+        "name": "Zwiebeln: alle Sorten außer Weiße Zwiebel",
+        "emoji": "🧅",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "In grossen Mengen unverträglich."
+      }
+    ]
+  },
+  "Küchenkräuter": {
+    "name": "Küchenkräuter",
+    "list": [
+      {
+        "name": "Bärlauch (Allium ursinum)",
+        "emoji": "🌿",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen gut verträglich."
+      },
+      {
+        "name": "Basilikum",
+        "emoji": "🍃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Bockshornklee",
+        "emoji": "☘",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Bohnenkraut",
+        "emoji": "🌿",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Dill",
+        "emoji": "🌿",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen meist kein Problem. Stark salicylathaltig."
+      },
+      {
+        "name": "Kleesorten (Trigonella- und Trifolium-Arten)",
+        "emoji": "☘",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Z.B. Bockshornklee, Schabzigerklee, ..."
+      },
+      {
+        "name": "Oregano",
+        "emoji": "🌿",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Petersilie",
+        "emoji": "🌿",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Pfefferminze",
+        "emoji": "🌿",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rosmarin",
+        "emoji": "🌿",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Salbei",
+        "emoji": "🍃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schabzigerklee",
+        "emoji": "☘",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schnittlauch",
+        "emoji": "🌿",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "In grossen Mengen unverträglich."
+      }
+    ]
+  },
+  "Früchte": {
+    "name": "Früchte",
+    "list": [
+      {
+        "name": "Acerola Kirsche",
+        "emoji": "🍒",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Ananas",
+        "emoji": "🍍",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Apfel",
+        "emoji": "🍏",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Aprikose",
+        "emoji": "🍑",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Aronia, Apfelbeeren",
+        "emoji": "🍓",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Avocado",
+        "emoji": "🥑",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Banane",
+        "emoji": "🍌",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Je grüner, desto verträglicher?"
+      },
+      {
+        "name": "Baumtomate (Solanum betaceum)",
+        "emoji": "🍅",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Birne",
+        "emoji": "🍐",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Birne: Nashi-Birne",
+        "emoji": "🍐",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Blaubeere (Vaccinium myrtillus)",
+        "emoji": "🔵",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Bocksdorn-Beeren, Goji-Beeren",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Brombeeren",
+        "emoji": "🍓",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Cassis",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Cranberry",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Datteln, getrocknet",
+        "emoji": "🟤",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Drachenfrucht, Pitaya, Pitahaya",
+        "emoji": "🐲",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Erdbeere",
+        "emoji": "🍓",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Feigen, frisch oder getrocknet",
+        "emoji": "🟣",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann leicht abführend wirken."
+      },
+      {
+        "name": "Goiaba, Guave, Psidium guajava",
+        "emoji": "🟢",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Granatapfel (rotes Fleisch ohne Kerne)",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Grapefruit",
+        "emoji": "🍊",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Guave",
+        "emoji": "🟢",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Hagebutte",
+        "emoji": "🔴",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Heidelbeeren",
+        "emoji": "🔵",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Himbeeren",
+        "emoji": "🍓",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Holunderbeeren, Schwarzer Holunder",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Hunds-Rose, Hundsrose (Rosa canina)",
+        "emoji": "🌸",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Johannisbeere, rote",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Jostabeeren",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Hybrid aus Stachelbeere und schwarzer Johannisbeere."
+      },
+      {
+        "name": "Kakao, Kakaopulver (Schokolade etc.)",
+        "emoji": "🍫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kakaobutter",
+        "emoji": "🧈",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Meistens gut verträglich."
+      },
+      {
+        "name": "Kaki",
+        "emoji": "🟠",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kaktusfeigen (Opuntia ficus-indica)",
+        "emoji": "🌵",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Hautkontakt mit den Stacheln vermeiden!"
+      },
+      {
+        "name": "Kirsche",
+        "emoji": "🍒",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Umstritten."
+      },
+      {
+        "name": "Kiwi",
+        "emoji": "🥝",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kokosnuss, Kokosraspel, Kokosmilch",
+        "emoji": "🥥",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Wertvolle Selenquelle."
+      },
+      {
+        "name": "Korinthen",
+        "emoji": "🍇",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Nur wenn ungeschwefelt (ohne Konservierungsstoffe)! Stark salicylathaltig."
+      },
+      {
+        "name": "Kranbeere (Vaccinium macrocarpon)",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kronsbeere (Vaccinium vitis-idaea)",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Limette",
+        "emoji": "🍋",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Limone",
+        "emoji": "🍋",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Litchi, Litschi",
+        "emoji": "⚪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Loganbeere",
+        "emoji": "🔴",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mandarine",
+        "emoji": "🍊",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mango",
+        "emoji": "🥭",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Umstritten. Wird oft gut vertragen."
+      },
+      {
+        "name": "Maracuja (Passiflora edulis / flavicarpa)",
+        "emoji": "🟠",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Marille",
+        "emoji": "🍑",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Maulbeere",
+        "emoji": "🔴",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Melonen (außer Wassermelone)",
+        "emoji": "🍈",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Verdacht auf gelegentliche Liberatorwirkungen (wegen Schadstoff-/Pestizidbelastung?)"
+      },
+      {
+        "name": "Nashi-Birne",
+        "emoji": "🍐",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Nektarinen",
+        "emoji": "🍎",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Orangen",
+        "emoji": "🍊",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Orangenschale",
+        "emoji": "🍊",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Papaya",
+        "emoji": "🟠",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Passionsfrucht",
+        "emoji": "⚫",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Persimone",
+        "emoji": "🟠",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Pfirsich",
+        "emoji": "🍑",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Pflaumen-Arten",
+        "emoji": "🟣",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Preiselbeere",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Quitten",
+        "emoji": "🍐",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rhabarber",
+        "emoji": "🥬",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Umstritten. Oxalsäure."
+      },
+      {
+        "name": "Rosinen",
+        "emoji": "🍇",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Nur wenn ungeschwefelt (ohne Konservierungsstoffe)! Stark salicylathaltig."
+      },
+      {
+        "name": "Rote Johannisbeere",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sanddorn",
+        "emoji": "🟡",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sauerkirsche",
+        "emoji": "🍒",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schwarze Johannisbeere",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schwarzer Holunder",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sharonfrucht",
+        "emoji": "🟠",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Stachelbeeren",
+        "emoji": "🟢",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sternfrucht, Karambole, Karambola",
+        "emoji": "⭐",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sultaninen",
+        "emoji": "🍇",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Nur wenn ungeschwefelt (ohne Konservierungsstoffe)! Stark salicylathaltig."
+      },
+      {
+        "name": "Tamarillo",
+        "emoji": "🔴",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Trauben, Weintrauben",
+        "emoji": "🍇",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wassermelonen",
+        "emoji": "🍉",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Verdacht auf Liberatorwirkung."
+      },
+      {
+        "name": "Weichselkirsche",
+        "emoji": "🍒",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Weinbeeren, getrocknet (Rosinen)",
+        "emoji": "🍇",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Nur wenn ungeschwefelt (ohne Konservierungsstoffe)! Stark salicylathaltig."
+      },
+      {
+        "name": "Weintrauben",
+        "emoji": "🍇",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Zitrone",
+        "emoji": "🍋",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Zitronenschale",
+        "emoji": "🍋",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Zitrusfrüchte",
+        "emoji": "🍊",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Zwetschge (Prunus domestica subsp. domestica)",
+        "emoji": "🟣",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Besser verträglich als andere Pflaumen."
+      }
+    ]
+  },
+  "Samen, Kerne": {
+    "name": "Samen & Kerne",
+    "list": [
+      {
+        "name": "Chia-Samen (Salvia hispanica)",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Flohsamen, Flohsamenschalen",
+        "emoji": "🟤",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kürbiskerne",
+        "emoji": "🎃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sesam",
+        "emoji": "🟡",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann vereinzelt Durchfall verursachen"
+      }
+    ]
+  },
+  "Pilze und Algen": {
+    "name": "Pilze & Algen",
+    "list": [
+      {
+        "name": "Algen und Algenbestandteile",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      },
+      {
+        "name": "Backhefe, Bäckerhefe (frisch / getrocknet)",
+        "emoji": "🟫",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann verträglich sein bei hygienischen Produktionsbedingungen. Ausnahmen: Backwaren mit langer Teigführungszeit, Produkte mit Hefegärung, Hefeextrakt. Enthält viel Glutaminsäure (siehe Glutamat)."
+      },
+      {
+        "name": "Bierhefe (frisch / getrocknet)",
+        "emoji": "🍺",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann verträglich sein bei hygienischen Produktionsbedingungen. Ausnahmen: Backwaren mit langer Teigführungszeit, Produkte mit Hefegärung, Hefeextrakt. Enthält viel Glutaminsäure (siehe Glutamat)."
+      },
+      {
+        "name": "Braunalgen, Algen",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      },
+      {
+        "name": "Champignons",
+        "emoji": "🍄",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gemeiner Steinpilz (Boletus edulis)",
+        "emoji": "🍄",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gest, Germ, Hefe (frisch / getrocknet)",
+        "emoji": "🟫",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann verträglich sein bei hygienischen Produktionsbedingungen. Ausnahmen: Backwaren mit langer Teigführungszeit, Produkte mit Hefegärung, Hefeextrakt. Enthält viel Glutaminsäure (siehe Glutamat)."
+      },
+      {
+        "name": "Grünalgen, Algen",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      },
+      {
+        "name": "Hefe (frisch / getrocknet)",
+        "emoji": "🟫",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kann verträglich sein bei hygienischen Produktionsbedingungen. Ausnahmen: Backwaren mit langer Teigführungszeit, Produkte mit Hefegärung, Hefeextrakt. Enthält viel Glutaminsäure (siehe Glutamat)."
+      },
+      {
+        "name": "Kombu-Algen",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      },
+      {
+        "name": "Meeresalgen, Meeralgen",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      },
+      {
+        "name": "Morcheln",
+        "emoji": "🍄",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Nori-Algen",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      },
+      {
+        "name": "Pilze, diverse Arten",
+        "emoji": "🍄",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rotalgen, Algen",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      },
+      {
+        "name": "Schwammerl",
+        "emoji": "🍄",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Seetang, Algen",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      },
+      {
+        "name": "Steinpilze",
+        "emoji": "🍄",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wakame-Algen",
+        "emoji": "🍃",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Extrem jodhaltig."
+      }
+    ]
+  },
+  "Süßungsmittel": {
+    "name": "Süßungsmittel",
+    "list": [
+      {
+        "name": "Agavendicksaft, Agavensirup",
+        "emoji": "🧴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Hoher Fructose-Gehalt."
+      },
+      {
+        "name": "Ahornsirup",
+        "emoji": "🍁",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Birkenzucker, Xylit, Xylitol, E967",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Dextrose",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Glucosesirup kann sehr viel Fructose enthalten (nur begrenzt verträglich), reine Glucose hingegen nicht."
+      },
+      {
+        "name": "E420, Sorbit, Sorbitol",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Abführend, harntreibend. Unverträglich bei Sorbit-Intoleranz und hereditärer (vererbter) Fructoseintoleranz."
+      },
+      {
+        "name": "E967, Xylit, Xylitol, Birkenzucker",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Fruchtzucker",
+        "emoji": "🍎",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Verdauungsbeschwerden bei zu grossen Mengen."
+      },
+      {
+        "name": "Fructose",
+        "emoji": "🍎",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Verdauungsbeschwerden bei zu grossen Mengen."
+      },
+      {
+        "name": "Gebrannter Zucker",
+        "emoji": "🔥",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Glucose",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Glucosesirup kann sehr viel Fructose enthalten (nur begrenzt verträglich), reine Glucose hingegen nicht."
+      },
+      {
+        "name": "Glucosesirup",
+        "emoji": "🧴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Glucosesirup kann sehr viel Fructose enthalten (nur begrenzt verträglich), reine Glucose hingegen nicht."
+      },
+      {
+        "name": "Honig",
+        "emoji": "🍯",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Umstritten. Uneinheitlich. Enthält Benzoesäure."
+      },
+      {
+        "name": "Invertzucker, Invertose, Invertzuckersirup",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Karamell",
+        "emoji": "🟤",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kristallzucker",
+        "emoji": "🧂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sollte trotzdem sparsam eingesetzt werden, weil allgemein ungesund."
+      },
+      {
+        "name": "Künstliche Süssstoffe, künstliche Süßstoffe",
+        "emoji": "🧪",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sucralose ist verträglich."
+      },
+      {
+        "name": "Lactose",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Maltose",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Malzextrakt",
+        "emoji": "🧪",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Malzzucker, rein",
+        "emoji": "🧂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Milchzucker",
+        "emoji": "🥛",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Palmzucker",
+        "emoji": "🌴",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rohrzucker",
+        "emoji": "🧂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sollte trotzdem sparsam eingesetzt werden, weil allgemein ungesund."
+      },
+      {
+        "name": "Rübenzucker",
+        "emoji": "🥕",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sollte trotzdem sparsam eingesetzt werden, weil allgemein ungesund."
+      },
+      {
+        "name": "Saccharose",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sollte trotzdem sparsam eingesetzt werden, weil allgemein ungesund."
+      },
+      {
+        "name": "Sorbit, Sorbitol, Glucitol, Hexanhexol, E420",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Abführend, harntreibend. Unverträglich bei Sorbit-Intoleranz und hereditärer (vererbter) Fructoseintoleranz."
+      },
+      {
+        "name": "Stevia (Stevia-Blätter, Steviosid flüssig/pulverförmig)",
+        "emoji": "🍃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Süssholz, Süßholz",
+        "emoji": "🪓",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Traubenzucker",
+        "emoji": "🍇",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Glucosesirup kann sehr viel Fructose enthalten (nur begrenzt verträglich), reine Glucose hingegen nicht."
+      },
+      {
+        "name": "Xylit, Xylitol, Birkenzucker, E967",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Zucker",
+        "emoji": "🧂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sollte trotzdem sparsam eingesetzt werden, weil allgemein ungesund."
+      }
+    ]
+  },
+  "Gewürze": {
+    "name": "Gewürze",
+    "list": [
+      {
+        "name": "Alkoholessig",
+        "emoji": "🥃",
+        "verträglichkeit": 0,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Histaminärmster Essig, aber nicht histaminfrei. Sparsam verwenden. Auf Zusatzstoffe achten!"
+      },
+      {
+        "name": "Anis",
+        "emoji": "🌿",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Bouillon",
+        "emoji": "🥫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Fast immer mit unverträglichen Zutaten (Glutamat/Hefeextrakt/Würze/Proteinhydrolysat/Eiweißhydrolysat, Fleischextrakte, unverträgliches Gemüse)."
+      },
+      {
+        "name": "Branntweinessig",
+        "emoji": "🧴",
+        "verträglichkeit": 0,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Histaminärmster Essig, aber nicht histaminfrei. Sparsam verwenden. Auf Zusatzstoffe achten!"
+      },
+      {
+        "name": "Brühe, Brühwürfel/-pulver",
+        "emoji": "🟫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Fast immer mit unverträglichen Zutaten (Glutamat/Hefeextrakt/Würze/Proteinhydrolysat/Eiweißhydrolysat, Fleischextrakte, unverträgliches Gemüse)."
+      },
+      {
+        "name": "Cumin",
+        "emoji": "🟤",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Curcuma",
+        "emoji": "🟡",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Curry",
+        "emoji": "🟡",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Essig: Aceto Balsamico, Balsamessig",
+        "emoji": "🍇",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Essig: Alkoholessig, Branntweinessig, Weingeistessig, Essigessenz",
+        "emoji": "🧴",
+        "verträglichkeit": 0,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Histaminärmster Essig, aber nicht histaminfrei. Sparsam verwenden. Auf Zusatzstoffe achten!"
+      },
+      {
+        "name": "Essig: Apfelessig",
+        "emoji": "🍏",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Auf Zusatzstoffe achten!"
+      },
+      {
+        "name": "Essig: Rotweinessig",
+        "emoji": "🍷",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Essig: Weissweinessig",
+        "emoji": "🍷",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Essigessenz",
+        "emoji": "🧪",
+        "verträglichkeit": 0,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Histaminärmster Essig, aber nicht histaminfrei. Sparsam verwenden. Auf Zusatzstoffe achten!"
+      },
+      {
+        "name": "Fleischextrakt",
+        "emoji": "🥩",
+        "verträglichkeit": 2,
+        "histamin": "?",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gelbwurz (Curcuma longa)",
+        "emoji": "🟡",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Gewürznelken, Nelken",
+        "emoji": "☘",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen gut verträglich, für grössere Mengen fehlen Erfahrungswerte."
+      },
+      {
+        "name": "Hefeextrakt",
+        "emoji": "🥫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Chemische Umwandlung zu Glutamat."
+      },
+      {
+        "name": "Ingwer",
+        "emoji": "🍠",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen verträglich."
+      },
+      {
+        "name": "Kardamom",
+        "emoji": "🌿",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Nur sparsam verwenden! Verschiedene Pflanzenarten und Sorten werden als Kardamom bezeichnet und als Gewürz verwendet. Unklar, ob alle gleich gut verträglich."
+      },
+      {
+        "name": "Koriander, Echter Koriander, Gewürzkoriander, (Coriandrum sativum)",
+        "emoji": "🍃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Nur kleine Mengen sind gut verträglich!"
+      },
+      {
+        "name": "Kreuzkümmel (Cuminum cyminum)",
+        "emoji": "🟤",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kumin",
+        "emoji": "🟤",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kümmel: Echter Kümmel (Carum carvi)",
+        "emoji": "🟤",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Positive Wirkung: Gut bei schwer verdaulichen Speisen. Vorsicht: In EN und FR bedeutet 'Cumin' Kreuzkümmel (unverträglich)! Nicht mit Kreuzkümmel verwechseln!"
+      },
+      {
+        "name": "Kurkuma",
+        "emoji": "🟡",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Lorbeerblätter, Echter Lorbeer (Laurus nobilis), Edler Lorbeer, Gewürzlorbeer",
+        "emoji": "🍃",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen gut verträglich."
+      },
+      {
+        "name": "Mohnsamen",
+        "emoji": "⚫",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen verträglich."
+      },
+      {
+        "name": "Muskatnuss",
+        "emoji": "🌰",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen verträglich."
+      },
+      {
+        "name": "Paprikapulver, mild",
+        "emoji": "🌶",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Paprikapulver, scharf",
+        "emoji": "🌶",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Reizt den Darm."
+      },
+      {
+        "name": "Pfeffer, schwarz",
+        "emoji": "⚫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sehr kleine Mengen verträglich."
+      },
+      {
+        "name": "Pfeffer, weiß",
+        "emoji": "🧂",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Sehr kleine Mengen verträglich."
+      },
+      {
+        "name": "Schwarzkümmel (Nigella sativa)",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Positive Wirkung: Antiallergische Eigenschaften."
+      },
+      {
+        "name": "Senf, Senfkörner, Senfsamenpulver",
+        "emoji": "🌱",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Samen der Senfpflanze und daraus hergestellte Erzeugnisse."
+      },
+      {
+        "name": "Sojasauce",
+        "emoji": "🍶",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sternanis",
+        "emoji": "⭐",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Thymian, Echter Thymian (Thymus vulgaris)",
+        "emoji": "🌿",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Vanille, Vanilleschoten, Vanillepulver, Vanillezucker",
+        "emoji": "⚫",
+        "verträglichkeit": 1,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "In kleinen Mengen verträglich. Fermentation! Evtl. Spuren von Sulfit? (vgl. Zusatzstoffe > Vanillin)"
+      },
+      {
+        "name": "Vanilleextrakt",
+        "emoji": "🧪",
+        "verträglichkeit": 1,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Aus fermentierten Schoten, alkoholhaltig."
+      },
+      {
+        "name": "Wacholderbeeren",
+        "emoji": "⚫",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Weingeistessig",
+        "emoji": "🍷",
+        "verträglichkeit": 0,
+        "histamin": "?",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Histaminärmster Essig, aber nicht histaminfrei. Sparsam verwenden. Auf Zusatzstoffe achten!"
+      },
+      {
+        "name": "Würze, Speisewürze, Suppenwürze (pflanzliches Eiweißhydrolysat)",
+        "emoji": "🥫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Aus pflanzl. Eiweiss gewonnen, Aroma erinnert an Fleischbrühe. Glutamat, Histamin."
+      },
+      {
+        "name": "Zimt, Zimtstangen, Zimtpulver",
+        "emoji": "🟤",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Getränke": {
+    "name": "Getränke",
+    "list": [
+      {
+        "name": "Heilquellen-Wasser mit viel Schwefel/Kohlensäure/Fluor/Iod",
+        "emoji": "💧",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Leitungswasser",
+        "emoji": "💧",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mineralwasser ohne Kohlensäure",
+        "emoji": "💧",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Alkohol": {
+    "name": "Alkohol",
+    "list": [
+      {
+        "name": "Alkohol, rein (Ethanol)",
+        "emoji": "🧪",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Alkoholhaltige Getränke",
+        "emoji": "🍸",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Bier",
+        "emoji": "🍻",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Champagner",
+        "emoji": "🥂",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Ethanol, Ethylalkohol",
+        "emoji": "🧪",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rum",
+        "emoji": "🥃",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schnäpse, klar (farblos)",
+        "emoji": "🥃",
+        "verträglichkeit": 2,
+        "histamin": "?",
+        "amine": "?",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schnäpse, nicht klar (nicht farblos)",
+        "emoji": "🥃",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Sekt",
+        "emoji": "🥂",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Spirituosen, klar (farblos)",
+        "emoji": "🥃",
+        "verträglichkeit": 2,
+        "histamin": "?",
+        "amine": "?",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Spirituosen, nicht klar (nicht farblos)",
+        "emoji": "🥃",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wein",
+        "emoji": "🍷",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wein, histaminfrei (<0.1 mg/l)",
+        "emoji": "🍷",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": "Enthält wie alle Weine immer noch Alkohol und Sulfit. Zum Kochen hingegen gut verträglich!"
+      },
+      {
+        "name": "Wein: Rotwein",
+        "emoji": "🍷",
+        "verträglichkeit": 3,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wein: Schilcherwein",
+        "emoji": "🍷",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Wein: Weisswein, Weißwein",
+        "emoji": "🍷",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Weinbrand, Brandy",
+        "emoji": "🥃",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "A",
+        "liberator": "L",
+        "blocker": "B",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Tee": {
+    "name": "Tee",
+    "list": [
+      {
+        "name": "Brennnesseltee",
+        "emoji": "🍃",
+        "verträglichkeit": 1,
+        "histamin": "H",
+        "amine": "?",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Eisenkraut-Tee",
+        "emoji": "🍂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Wirkt beruhigend auf Darm und Nerven."
+      },
+      {
+        "name": "Grüntee",
+        "emoji": "🍃",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kamillentee",
+        "emoji": "🌿",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kräuterteemischungen aus Heilkräutern, z.B. Alpenkräutertee, Hustentee, Brusttee",
+        "emoji": "🌿",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "",
+        "anmerkungen": "Unverträgliche Zutat noch nicht identifiziert."
+      },
+      {
+        "name": "Lindenblütentee",
+        "emoji": "🌸",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Mate Tee",
+        "emoji": "🧉",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Pfefferminztee",
+        "emoji": "🍃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Rooibostee",
+        "emoji": "🍂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Vorsicht: Meist werden unter diesem Namen auch Teemischungen mit Rooibos und unverträglichen Zutaten verkauft."
+      },
+      {
+        "name": "Salbeitee",
+        "emoji": "🍃",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schwarztee",
+        "emoji": "🍃",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "",
+        "blocker": "B",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Verveine-Tee",
+        "emoji": "🍂",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Wirkt beruhigend auf Darm und Nerven."
+      }
+    ]
+  },
+  "Säfte, Nektare": {
+    "name": "Säfte & Nektare",
+    "list": [
+      {
+        "name": "Cranberry Nektar",
+        "emoji": "🔴",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Orangensaft",
+        "emoji": "🍊",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Tomatensaft",
+        "emoji": "🍅",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Koffeingetränke": {
+    "name": "Koffeingetränke",
+    "list": [
+      {
+        "name": "Cola",
+        "emoji": "🥫",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Siehe auch unter Koffein und Kohlensäure."
+      },
+      {
+        "name": "Energy-Drinks",
+        "emoji": "🥫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "?",
+        "blocker": "B",
+        "anmerkungen": "Theobromin hemmt die DAO."
+      },
+      {
+        "name": "Esrpesso",
+        "emoji": "☕",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Etwas besser verträglich als Kaffee, aber Koffein regt Nerven & Darm an, was mastzellaktivierend sein kann."
+      },
+      {
+        "name": "Kaffee",
+        "emoji": "☕",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Koffein regt Nerven & Darm an, was mastzellaktivierend ist."
+      }
+    ]
+  },
+  "Milchersatz": {
+    "name": "Milchersatz",
+    "list": [
+      {
+        "name": "Hafer-Drink",
+        "emoji": "🌾",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Oft leicht histaminhaltig, da enzymatisch fermentiert."
+      },
+      {
+        "name": "Reismilch, Reis-Drink",
+        "emoji": "🍚",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Oft leicht histaminhaltig, da enzymatisch fermentiert."
+      },
+      {
+        "name": "Sojamilch, Soja-Drink",
+        "emoji": "🌱",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Süßgetränke, Limonaden": {
+    "name": "Süßgetränke / Limonaden",
+    "list": [
+      {
+        "name": "Heisse Schokolade, heiße Schokolade",
+        "emoji": "☕",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Holunderblütensirup",
+        "emoji": "🌸",
+        "verträglichkeit": 0,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kakaogetränke",
+        "emoji": "☕",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Limonadengetränke",
+        "emoji": "🥤",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Je nach Inhaltsstoffen mehr oder weniger verträglich."
+      },
+      {
+        "name": "Ovomaltine",
+        "emoji": "🥫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Schokoladengetränke",
+        "emoji": "☕",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  },
+
+  "Zusatzstoffe": [],
+
+  "Vitamine, Mineralstoffe, Spurenelemente, Stimulantien": {
+    "name": "Vitamine, Mineralstoffe, etc.",
+    "list": [
+      {
+        "name": "Folsäure, Folat, Vitamin B9",
+        "emoji": "🧪",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Umstritten; Andere Bezeichnung: Pteroyl-Mono-Glutaminsäure (Ähnlichkeit mit Glutaminsäure, Glutamat?)"
+      },
+      {
+        "name": "Iod, Jod",
+        "emoji": "🧪",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Jodsalz, Iodsalz (Jodzusatz in Form von Kaliumiodid, Kaliumjodid, Kaliumiodat, Kaliumjodat)",
+        "emoji": "🧂",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Jodtabletten für den atomaren Störfall",
+        "emoji": "💊",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kaliumiodat, Kaliumjodat",
+        "emoji": "🧪",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kaliumiodid, Kaliumjodid",
+        "emoji": "🧪",
+        "verträglichkeit": 3,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Kochsalz iodiert / jodiert",
+        "emoji": "🧂",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Theobromin",
+        "emoji": "🧪",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "B",
+        "anmerkungen": ""
+      }
+    ]
+  },
+  "Zubereitungen": {
+    "name": "Zubereitungen",
+    "list": [
+      {
+        "name": "Lakritze",
+        "emoji": "⚫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": ""
+      },
+      {
+        "name": "Marzipan",
+        "emoji": "🧈",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Kleine Mengen gut verträglich, falls ohne unverträgliche Zusatzstoffe."
+      },
+      {
+        "name": "Schokolade, braun / schwarz / dunkel",
+        "emoji": "🍫",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "A",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Tyramin, Phenylethylamin"
+      },
+      {
+        "name": "Schokolade, weiß",
+        "emoji": "🍫",
+        "verträglichkeit": 1,
+        "histamin": "",
+        "amine": "?",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Meistens gut verträglich."
+      },
+      {
+        "name": "Senf (Zubereitung)",
+        "emoji": "🍯",
+        "verträglichkeit": 2,
+        "histamin": "H",
+        "amine": "",
+        "liberator": "L",
+        "blocker": "",
+        "anmerkungen": "Zubereitung aus Senfsamen, Essig etc."
+      },
+      {
+        "name": "Tofu",
+        "emoji": "⬜",
+        "verträglichkeit": 2,
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": ""
+      }
+    ]
+  }
+}
