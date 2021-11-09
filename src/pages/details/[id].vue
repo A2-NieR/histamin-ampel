@@ -53,15 +53,15 @@ let bgColor = ''
 
 if (details) {
   if (details.verträglichkeit === 0) {
-    bgColor = 'bg-green-500'
+    bgColor = 'bg-green-500 dark:bg-green-700'
   } else if (details.verträglichkeit === 1) {
-    bgColor = 'bg-yellow-500'
+    bgColor = 'bg-yellow-500  dark:bg-yellow-600'
   } else if (details.verträglichkeit === 2) {
-    bgColor = 'bg-orange-500'
+    bgColor = 'bg-orange-500 dark:bg-orange-700'
   } else if (details.verträglichkeit === 3) {
-    bgColor = 'bg-red-500'
+    bgColor = 'bg-red-500 dark:bg-red-700'
   } else {
-    bgColor = 'bg-blue-gray-500'
+    bgColor = 'bg-blue-gray-500 dark:bg-blue-gray-600'
   }
 }
 
@@ -116,14 +116,15 @@ if (details.blocker === 'B') {
 
 <template>
   <div
-    h="12"
+    h="18"
     w="full"
     z="50"
     pos="fixed"
     display="flex"
     align="items-center"
     justify="center"
-    bg="light-300 dark:dark-300"
+    bg="light-100 dark:dark-200"
+    text="dark:white"
     shadow="~"
   >
     <NavBack />
@@ -133,8 +134,9 @@ if (details.blocker === 'B') {
     v-if="details"
     display="flex"
     flex="col"
+    overflow="scroll"
     h="screen"
-    p="t-18"
+    p="t-24"
     :class="bgColor"
     text="white"
   >

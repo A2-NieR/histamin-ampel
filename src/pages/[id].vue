@@ -36,25 +36,34 @@ const histamine = [
   data['Vitamine, Mineralstoffe, Spurenelemente, Stimulantien'],
   data.Zubereitungen
 ]
+
+//TODO: Filter by verträglichkeit w/ checkbox
 </script>
 
 <template>
   <div bg="light-300 dark:dark-300" text="dark-900 dark:light-100">
     <div
-      h="12"
+      h="18"
       w="full"
       z="50"
       pos="fixed"
       display="flex"
       align="items-center"
       justify="center"
-      bg="light-300 dark:dark-300"
+      bg="light-100 dark:dark-300"
       shadow="~"
     >
       <NavBack />
       <span font="bold">{{ histamine[parseInt(props.id)].name }}</span>
     </div>
-    <ul v-if="props.id" display="flex" flex="col" h="screen" p="y-14">
+    <ul
+      v-if="props.id"
+      h="screen"
+      display="flex"
+      flex="col"
+      overflow=" scroll"
+      p="t-20"
+    >
       <li v-for="item in histamine[parseInt(props.id)].list">
         <ListItem
           @click="router.push({ path: `/details/${item.slug}` })"

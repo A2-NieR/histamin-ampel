@@ -7,7 +7,7 @@
       placeholder="Suche..."
       w="full"
       p="y-1 x-3"
-      bg="light-300 dark:dark-100"
+      bg="light-100 dark:dark-100"
       border="1 solid gray-300 dark:transparent rounded-full"
       shadow="inner"
     />
