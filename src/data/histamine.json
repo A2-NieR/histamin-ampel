@@ -4,6 +4,7 @@
     "list": [
       {
         "name": "Eidotter/Eigelb",
+        "slug": "eigelb",
         "emoji": "🍳",
         "verträglichkeit": 0,
         "histamin": "",
@@ -14,6 +15,7 @@
       },
       {
         "name": "Eier, Hühnerei, Vollei",
+        "slug": "vollei",
         "emoji": "🥚",
         "verträglichkeit": 2,
         "histamin": "",
@@ -24,6 +26,7 @@
       },
       {
         "name": "Eiklar, Eiweiss, Eiweiß",
+        "slug": "eiklar",
         "emoji": "🍳",
         "verträglichkeit": 2,
         "histamin": "",
@@ -34,6 +37,7 @@
       },
       {
         "name": "Wachteleier",
+        "slug": "wachtelei",
         "emoji": "🥚",
         "verträglichkeit": 0,
         "histamin": "",
@@ -49,6 +53,7 @@
     "list": [
       {
         "name": "Blauschimmelkäse",
+        "slug": "blauschimmel",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -59,6 +64,7 @@
       },
       {
         "name": "Butter: Sauerrahmbutter, mildgesäuerte Butter",
+        "slug": "sauerrahmbutter",
         "emoji": "🧈",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -69,6 +75,7 @@
       },
       {
         "name": "Butter: Süßrahmbutter, Süssrahmbutter",
+        "slug": "suessrahmbutter",
         "emoji": "🧈",
         "verträglichkeit": 0,
         "histamin": "",
@@ -79,6 +86,7 @@
       },
       {
         "name": "Butterkäse",
+        "slug": "butterkäse",
         "emoji": "🧀",
         "verträglichkeit": 0,
         "histamin": "",
@@ -89,6 +97,7 @@
       },
       {
         "name": "Buttermilch, angesäuert",
+        "slug": "buttermilch",
         "emoji": "🥛",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -99,6 +108,7 @@
       },
       {
         "name": "Cheddar Käse",
+        "slug": "cheddar",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -109,6 +119,7 @@
       },
       {
         "name": "Crème Fraïche, Creme Fraiche",
+        "slug": "cremefraiche",
         "emoji": "🥛",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -119,6 +130,7 @@
       },
       {
         "name": "Edelschimmelkäse",
+        "slug": "edelschimmel",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -129,6 +141,7 @@
       },
       {
         "name": "Feta Käse",
+        "slug": "feta",
         "emoji": "🧀",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -139,6 +152,7 @@
       },
       {
         "name": "Fontina Käse",
+        "slug": "fontina",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -149,6 +163,7 @@
       },
       {
         "name": "Frischkäse",
+        "slug": "frischkaese",
         "emoji": "🧀",
         "verträglichkeit": 0,
         "histamin": "",
@@ -159,6 +174,7 @@
       },
       {
         "name": "Gouda Käse, gereift",
+        "slug": "goudagereift",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -169,6 +185,7 @@
       },
       {
         "name": "Gouda Käse, jung",
+        "slug": "goudajung",
         "emoji": "🧀",
         "verträglichkeit": 0,
         "histamin": "",
@@ -179,6 +196,7 @@
       },
       {
         "name": "Haltbarmilch, H-Milch, UHT-Milch, Up-Milch",
+        "slug": "h-milch",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -189,6 +207,7 @@
       },
       {
         "name": "Joghurt natur",
+        "slug": "joghurt",
         "emoji": "🥄",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -199,6 +218,7 @@
       },
       {
         "name": "Käse: lange gereifte Sorten und Hartkäse (z.B. Emmentaler)",
+        "slug": "reiferkaese",
         "emoji": "🧀",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -209,6 +229,7 @@
       },
       {
         "name": "Käsezubereitungen (=Mischungen mit weiteren Zutaten)",
+        "slug": "kaesemischung",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "?",
@@ -219,6 +240,7 @@
       },
       {
         "name": "Kefir",
+        "slug": "kefir",
         "emoji": "🥛",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -229,6 +251,7 @@
       },
       {
         "name": "Mascarpone Käse",
+        "slug": "mascarpone",
         "emoji": "⚪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -239,6 +262,7 @@
       },
       {
         "name": "Milch, laktosefrei",
+        "slug": "l-milch",
         "emoji": "🥛",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -249,6 +273,7 @@
       },
       {
         "name": "Milch, pasteurisiert (PAST-Milch)",
+        "slug": "p-milch",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -259,6 +284,7 @@
       },
       {
         "name": "Milchpulver",
+        "slug": "milchpulver",
         "emoji": "⬜",
         "verträglichkeit": 1,
         "histamin": "?",
@@ -269,6 +295,7 @@
       },
       {
         "name": "Molke",
+        "slug": "molke",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -279,6 +306,7 @@
       },
       {
         "name": "Mozzarella Käse",
+        "slug": "mozzarella",
         "emoji": "⚪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -289,6 +317,7 @@
       },
       {
         "name": "Sahne (wenn ohne Zusatzstoffe)",
+        "slug": "sahne",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -299,6 +328,7 @@
       },
       {
         "name": "Quark",
+        "slug": "quark",
         "emoji": "⬜",
         "verträglichkeit": 0,
         "histamin": "",
@@ -309,6 +339,7 @@
       },
       {
         "name": "Rahm, süß (wenn ohne Zusatzstoffe)",
+        "slug": "rahm",
         "emoji": "🥛",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -319,6 +350,7 @@
       },
       {
         "name": "Ricotta Käse",
+        "slug": "ricotta",
         "emoji": "⚪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -329,6 +361,7 @@
       },
       {
         "name": "Rohmilch",
+        "slug": "rohmilch",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -339,6 +372,7 @@
       },
       {
         "name": "Rohmilchkäse",
+        "slug": "rohmilchkaese",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -349,6 +383,7 @@
       },
       {
         "name": "Rohmilchprodukte",
+        "slug": "rohmilchprodukte",
         "emoji": "🥛",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -359,6 +394,7 @@
       },
       {
         "name": "Roquefort Käse",
+        "slug": "roquefort",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -369,6 +405,7 @@
       },
       {
         "name": "Sahne, süß (wenn ohne Zusatzstoffe)",
+        "slug": "suessesahne",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -379,6 +416,7 @@
       },
       {
         "name": "Sauerrahm",
+        "slug": "sauerrahm",
         "emoji": "🥛",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -389,6 +427,7 @@
       },
       {
         "name": "Saure Sahne",
+        "slug": "sauresahne",
         "emoji": "🥛",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -399,6 +438,7 @@
       },
       {
         "name": "Schafmilch, Schafsmilch",
+        "slug": "schafmilch",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -409,6 +449,7 @@
       },
       {
         "name": "Schimmelkäse",
+        "slug": "schimmelkaese",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -419,6 +460,7 @@
       },
       {
         "name": "Schlagsahne (wenn ohne Zusatzstoffe)",
+        "slug": "schlagsahne",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -429,6 +471,7 @@
       },
       {
         "name": "Schmelzkäse",
+        "slug": "schmelzkaese",
         "emoji": "🧀",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -439,6 +482,7 @@
       },
       {
         "name": "Süssrahm, Süßrahm (wenn ohne Zusatzstoffe)",
+        "slug": "suessrahm",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -449,6 +493,7 @@
       },
       {
         "name": "UHT-Milch, Up-Milch, H-Milch, Haltbarmilch",
+        "slug": "u-milch",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -459,6 +504,7 @@
       },
       {
         "name": "Ziegenmilch",
+        "slug": "ziegenmilch",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -474,6 +520,7 @@
     "list": [
       {
         "name": "Ente",
+        "slug": "ente",
         "emoji": "🦆",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -484,6 +531,7 @@
       },
       {
         "name": "Hackfleisch, bei Verzehr unmittelbar nach Herstellung",
+        "slug": "hackfleischfrisch",
         "emoji": "🍖",
         "verträglichkeit": 0,
         "histamin": "",
@@ -494,6 +542,7 @@
       },
       {
         "name": "Hackfleisch, Offenverkauf oder unter Schutzatmosphäre",
+        "slug": "hachfleisch",
         "emoji": "🍖",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -504,6 +553,7 @@
       },
       {
         "name": "Geflügelfleisch",
+        "slug": "gefluegel",
         "emoji": "🍗",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -514,6 +564,7 @@
       },
       {
         "name": "Huhn, Hähnchen, Hühnchen, Hendl",
+        "slug": "huhn",
         "emoji": "🐔",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -524,6 +575,7 @@
       },
       {
         "name": "Innereien",
+        "slug": "innereien",
         "emoji": "🍖",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -534,6 +586,7 @@
       },
       {
         "name": "Kalbfleisch, frisch",
+        "slug": "kalb",
         "emoji": "🥩",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -544,6 +597,7 @@
       },
       {
         "name": "Pute",
+        "slug": "pute",
         "emoji": "🍗",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -554,6 +608,7 @@
       },
       {
         "name": "Räucherfleisch, Rauchfleisch",
+        "slug": "rauchfleisch",
         "emoji": "🥓",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -564,6 +619,7 @@
       },
       {
         "name": "Rindfleisch, frisch",
+        "slug": "rind",
         "emoji": "🥩",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -574,6 +630,7 @@
       },
       {
         "name": "Rohschinken",
+        "slug": "rohschinken",
         "emoji": "🍖",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -584,6 +641,7 @@
       },
       {
         "name": "Salami",
+        "slug": "salami",
         "emoji": "🌭",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -594,6 +652,7 @@
       },
       {
         "name": "Schweinefleisch, frisch, unbehandelt",
+        "slug": "schwein",
         "emoji": "🐖",
         "verträglichkeit": 1,
         "histamin": "H!",
@@ -604,6 +663,7 @@
       },
       {
         "name": "Strauss, Strauß",
+        "slug": "strauss",
         "emoji": "🍗",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -614,6 +674,7 @@
       },
       {
         "name": "Trockenfleisch",
+        "slug": "trockenfleisch",
         "emoji": "🥓",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -624,6 +685,7 @@
       },
       {
         "name": "Wachtel",
+        "slug": "wachtel",
         "emoji": "🍗",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -634,6 +696,7 @@
       },
       {
         "name": "Wild",
+        "slug": "wild",
         "emoji": "🦌",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -644,6 +707,7 @@
       },
       {
         "name": "Wurst, Wurstwaren",
+        "slug": "wurst",
         "emoji": "🌭",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -654,6 +718,7 @@
       },
       {
         "name": "Zunge, Rindszunge, Kalbszunge",
+        "slug": "zunge",
         "emoji": "👅",
         "verträglichkeit": 0,
         "histamin": "",
@@ -669,6 +734,7 @@
     "list": [
       {
         "name": "Anchovis, Sardellen-Konserven",
+        "slug": "anchovis",
         "emoji": "🥫",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -679,6 +745,7 @@
       },
       {
         "name": "Fisch, Frischfisch vom Kühlregal / auf Eis",
+        "slug": "frischfisch",
         "emoji": "🐟",
         "verträglichkeit": 3,
         "histamin": "H!",
@@ -689,6 +756,7 @@
       },
       {
         "name": "Fisch, fangfrisch oder tiefgekühlt",
+        "slug": "fisch",
         "emoji": "🧊",
         "verträglichkeit": 3,
         "histamin": "H!",
@@ -699,6 +767,7 @@
       },
       {
         "name": "Forellen (Süsswasser): Seeforelle, Bachforelle, Regenbogenforelle, Lachsforelle",
+        "slug": "forelle",
         "emoji": "🐟",
         "verträglichkeit": 0,
         "histamin": "H!",
@@ -709,7 +778,8 @@
       },
       {
         "name": "Geräucherter Fisch",
-        "emoji": "🐟",
+        "slug": "geraeucherterfisch",
+        "emoji": "🚬",
         "verträglichkeit": 3,
         "histamin": "H",
         "amine": "?",
@@ -719,6 +789,7 @@
       },
       {
         "name": "Sardellen-Konserven, Sardellenpaste, Anchovis",
+        "slug": "sardellen",
         "emoji": "🥫",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -729,6 +800,7 @@
       },
       {
         "name": "Thunfisch",
+        "slug": "thunfisch",
         "emoji": "🐟",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -744,6 +816,7 @@
     "list": [
       {
         "name": "Austern",
+        "slug": "austern",
         "emoji": "🦪",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -754,6 +827,7 @@
       },
       {
         "name": "Crevetten, Krevetten",
+        "slug": "crevetten",
         "emoji": "🍤",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -764,6 +838,7 @@
       },
       {
         "name": "Garnelen",
+        "slug": "garnelen",
         "emoji": "🍤",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -774,6 +849,7 @@
       },
       {
         "name": "Hummer",
+        "slug": "hummer",
         "emoji": "🦞",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -784,8 +860,9 @@
       },
       {
         "name": "Krabben",
+        "slug": "krabben",
         "emoji": "🦀",
-        "verträglichkeit": 0,
+        "verträglichkeit": 2,
         "histamin": "H!",
         "amine": "",
         "liberator": "L",
@@ -794,6 +871,7 @@
       },
       {
         "name": "Krebse",
+        "slug": "krebse",
         "emoji": "🦀",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -804,6 +882,7 @@
       },
       {
         "name": "Krustentiere, Schalentiere",
+        "slug": "krustentiere",
         "emoji": "🦐",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -814,6 +893,7 @@
       },
       {
         "name": "Langusten",
+        "slug": "langusten",
         "emoji": "🦐",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -824,6 +904,7 @@
       },
       {
         "name": "Meeresfrüchte (wirbellose Meerestiere)",
+        "slug": "meeresfruechte",
         "emoji": "🐙",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -834,6 +915,7 @@
       },
       {
         "name": "Muscheln",
+        "slug": "muscheln",
         "emoji": "🐚",
         "verträglichkeit": 2,
         "histamin": "H!",
@@ -849,6 +931,7 @@
     "list": [
       {
         "name": "Schmalz, Schweineschmalz",
+        "slug": "schmalz",
         "emoji": "🥫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -865,6 +948,7 @@
     "list": [
       {
         "name": "Amarant",
+        "slug": "amarant",
         "emoji": "🌾",
         "verträglichkeit": 0,
         "histamin": "",
@@ -875,6 +959,7 @@
       },
       {
         "name": "Backwaren",
+        "slug": "backwaren",
         "emoji": "🥐",
         "verträglichkeit": 1,
         "histamin": "?",
@@ -885,6 +970,7 @@
       },
       {
         "name": "Brot",
+        "slug": "brot",
         "emoji": "🍞",
         "verträglichkeit": 1,
         "histamin": "?",
@@ -895,6 +981,7 @@
       },
       {
         "name": "Buchweizen",
+        "slug": "buchweizen",
         "emoji": "🌾",
         "verträglichkeit": 2,
         "histamin": "",
@@ -905,6 +992,7 @@
       },
       {
         "name": "Cornflakes (ohne Malz, Folsäure oder andere Zusätze)",
+        "slug": "cornflakes",
         "emoji": "🌽",
         "verträglichkeit": 0,
         "histamin": "",
@@ -915,6 +1003,7 @@
       },
       {
         "name": "Dinkel",
+        "slug": "dinkel",
         "emoji": "🌾",
         "verträglichkeit": 0,
         "histamin": "",
@@ -925,6 +1014,7 @@
       },
       {
         "name": "Edelkastanien, Esskastanien, Maroni, Maronen frisch oder tiefgekühlt",
+        "slug": "maroni",
         "emoji": "🌰",
         "verträglichkeit": 0,
         "histamin": "",
@@ -935,6 +1025,7 @@
       },
       {
         "name": "Gerste",
+        "slug": "gerste",
         "emoji": "🌾",
         "verträglichkeit": 1,
         "histamin": "",
@@ -945,6 +1036,7 @@
       },
       {
         "name": "Gerstenmalz, Malz",
+        "slug": "malz",
         "emoji": "🌾",
         "verträglichkeit": 2,
         "histamin": "?",
@@ -955,6 +1047,7 @@
       },
       {
         "name": "Hafer",
+        "slug": "hafer",
         "emoji": "🌾",
         "verträglichkeit": 0,
         "histamin": "",
@@ -965,6 +1058,7 @@
       },
       {
         "name": "Hanfproteinpulver",
+        "slug": "hanfpulver",
         "emoji": "🍃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -975,6 +1069,7 @@
       },
       {
         "name": "Hanfsamen (Cannabis sativa)",
+        "slug": "hanfsamen",
         "emoji": "🌱",
         "verträglichkeit": 0,
         "histamin": "",
@@ -985,6 +1080,7 @@
       },
       {
         "name": "Hirse",
+        "slug": "hirse",
         "emoji": "🌾",
         "verträglichkeit": 0,
         "histamin": "",
@@ -995,6 +1091,7 @@
       },
       {
         "name": "Kartoffeln",
+        "slug": "kartoffeln",
         "emoji": "🥔",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1005,6 +1102,7 @@
       },
       {
         "name": "Mais getrocknet: Maisgriess, Maisgrieß, Maismehl, Maisdunst",
+        "slug": "maismehl",
         "emoji": "🌽",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1015,6 +1113,7 @@
       },
       {
         "name": "Mais aus der Dose, Dosenmais",
+        "slug": "dosenmais",
         "emoji": "🌽",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1025,6 +1124,7 @@
       },
       {
         "name": "Maiskörner, Maiskolben frisch/pasteurisiert",
+        "slug": "mais",
         "emoji": "🌽",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1035,6 +1135,7 @@
       },
       {
         "name": "Maltodextrin",
+        "slug": "maltodextrin",
         "emoji": "🧂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1045,6 +1146,7 @@
       },
       {
         "name": "Perlsago, Sago",
+        "slug": "perlsago",
         "emoji": "🧂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1055,6 +1157,7 @@
       },
       {
         "name": "Quinoa",
+        "slug": "quinoa",
         "emoji": "🌾",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1065,6 +1168,7 @@
       },
       {
         "name": "Reis",
+        "slug": "reis",
         "emoji": "🍚",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1075,6 +1179,7 @@
       },
       {
         "name": "Reisnudeln",
+        "slug": "reisnudeln",
         "emoji": "🍜",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1085,6 +1190,7 @@
       },
       {
         "name": "Reiswaffeln, Reis-Mais-Waffeln",
+        "slug": "reiswaffeln",
         "emoji": "🧇",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1095,6 +1201,7 @@
       },
       {
         "name": "Rice Crispies",
+        "slug": "crispies",
         "emoji": "🍪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1105,6 +1212,7 @@
       },
       {
         "name": "Roggen",
+        "slug": "roggen",
         "emoji": "🌾",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1115,6 +1223,7 @@
       },
       {
         "name": "Sonnenblumenkerne",
+        "slug": "sonnenblumenkerne",
         "emoji": "🌻",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1125,6 +1234,7 @@
       },
       {
         "name": "Süsskartoffel, Süßkartoffel",
+        "slug": "suesskartoffel",
         "emoji": "🍠",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1135,6 +1245,7 @@
       },
       {
         "name": "Weizen",
+        "slug": "weizen",
         "emoji": "🌾",
         "verträglichkeit": 1,
         "histamin": "?",
@@ -1145,6 +1256,7 @@
       },
       {
         "name": "Weizenkeime",
+        "slug": "weizenkeime",
         "emoji": "🌱",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1155,6 +1267,7 @@
       },
       {
         "name": "Wildreis",
+        "slug": "wildreis",
         "emoji": "🍚",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1170,6 +1283,7 @@
     "list": [
       {
         "name": "Baumnuss",
+        "slug": "baumnuss",
         "emoji": "🌰",
         "verträglichkeit": 3,
         "histamin": "",
@@ -1180,6 +1294,7 @@
       },
       {
         "name": "Cashewnüsse, Cashewkerne",
+        "slug": "cashew",
         "emoji": "🥜",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1190,6 +1305,7 @@
       },
       {
         "name": "Erdmandel (Cyperus esculentus)",
+        "slug": "erdmandel",
         "emoji": "🌰",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1200,6 +1316,7 @@
       },
       {
         "name": "Erdmandel, geröstet",
+        "slug": "mandelgeroestet",
         "emoji": "🌰",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1210,6 +1327,7 @@
       },
       {
         "name": "Erdnüsse, Erdnuss",
+        "slug": "erdnuss",
         "emoji": "🥜",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1220,6 +1338,7 @@
       },
       {
         "name": "Haselnuss",
+        "slug": "haselnuss",
         "emoji": "🌰",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1230,6 +1349,7 @@
       },
       {
         "name": "Macadamia-Nuss",
+        "slug": "macadamia",
         "emoji": "🌰",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1240,6 +1360,7 @@
       },
       {
         "name": "Mandeln",
+        "slug": "mandeln",
         "emoji": "🌰",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1250,6 +1371,7 @@
       },
       {
         "name": "Paranuss",
+        "slug": "paranuss",
         "emoji": "🌰",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1260,6 +1382,7 @@
       },
       {
         "name": "Pinienkerne",
+        "slug": "pinienkerne",
         "emoji": "🥖",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1270,6 +1393,7 @@
       },
       {
         "name": "Pistazie",
+        "slug": "pistazie",
         "emoji": "🌰",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1280,6 +1404,7 @@
       },
       {
         "name": "Tigernuss (Cyperus esculentus)",
+        "slug": "tigernuss",
         "emoji": "🌰",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1290,6 +1415,7 @@
       },
       {
         "name": "Walnuss",
+        "slug": "walnuss",
         "emoji": "🌰",
         "verträglichkeit": 3,
         "histamin": "",
@@ -1305,6 +1431,7 @@
     "list": [
       {
         "name": "Baumnussöl",
+        "slug": "baumnussoel",
         "emoji": "🧴",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1315,6 +1442,7 @@
       },
       {
         "name": "Distelöl, Färberdistelöl, Safloröl",
+        "slug": "disteloel",
         "emoji": "🧴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1325,6 +1453,7 @@
       },
       {
         "name": "Kokosfett, Kokosöl, Kokosnussfett, Kokosnussöl",
+        "slug": "kokosfett",
         "emoji": "🥥",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1335,6 +1464,7 @@
       },
       {
         "name": "Kürbiskernöl",
+        "slug": "kuerbiskernoel",
         "emoji": "🎃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1345,6 +1475,7 @@
       },
       {
         "name": "Margarine",
+        "slug": "margarine",
         "emoji": "🧈",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1355,6 +1486,7 @@
       },
       {
         "name": "Olivenöl",
+        "slug": "olivenoel",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1365,6 +1497,7 @@
       },
       {
         "name": "Palmöl, Palmfett, Palmkernöl",
+        "slug": "palmoel",
         "emoji": "🌴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1375,6 +1508,7 @@
       },
       {
         "name": "Rapsöl",
+        "slug": "rapsoel",
         "emoji": "🌾",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1385,6 +1519,7 @@
       },
       {
         "name": "Schwarzkümmelöl (Nigella sativa)",
+        "slug": "schwarzkuemmeloel",
         "emoji": "🧴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1395,6 +1530,7 @@
       },
       {
         "name": "Sonnenblumenöl",
+        "slug": "sonnenblumenoel",
         "emoji": "🌻",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1405,6 +1541,7 @@
       },
       {
         "name": "Walnussöl",
+        "slug": "walnussoel",
         "emoji": "🌰",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1420,6 +1557,7 @@
     "list": [
       {
         "name": "Ackerbohne (Vicia faba)",
+        "slug": "ackerbohne",
         "emoji": "🟢",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1430,6 +1568,7 @@
       },
       {
         "name": "Ackersalat",
+        "slug": "ackersalat",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1440,6 +1579,7 @@
       },
       {
         "name": "Artischocke",
+        "slug": "artischocke",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1450,6 +1590,7 @@
       },
       {
         "name": "Aubergine",
+        "slug": "aubergine",
         "emoji": "🍆",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -1460,6 +1601,7 @@
       },
       {
         "name": "Bambussprossen",
+        "slug": "bambussprossen",
         "emoji": "🌱",
         "verträglichkeit": "?",
         "histamin": "",
@@ -1470,6 +1612,7 @@
       },
       {
         "name": "Blattsalate",
+        "slug": "blattsalate",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1480,6 +1623,7 @@
       },
       {
         "name": "Blaukraut",
+        "slug": "blaukraut",
         "emoji": "🟣",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1490,6 +1634,7 @@
       },
       {
         "name": "Bleichsellerie",
+        "slug": "bleichsellerie",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1500,6 +1645,7 @@
       },
       {
         "name": "Blumenkohl",
+        "slug": "blumenkohl",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1510,6 +1656,7 @@
       },
       {
         "name": "Bohnen, diverse Arten",
+        "slug": "bohnen",
         "emoji": "🟢",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1520,6 +1667,7 @@
       },
       {
         "name": "Borlotti-Bohnen",
+        "slug": "borlotti",
         "emoji": "🟢",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1530,6 +1678,7 @@
       },
       {
         "name": "Buschbohnen, Grüne Bohnen",
+        "slug": "buschbohnen",
         "emoji": "🟢",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1540,6 +1689,7 @@
       },
       {
         "name": "Brennnessel",
+        "slug": "brennnessel",
         "emoji": "🌿",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -1550,6 +1700,7 @@
       },
       {
         "name": "Brokkoli",
+        "slug": "brokkoli",
         "emoji": "🥦",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1560,6 +1711,7 @@
       },
       {
         "name": "Chicorée (Cichorium intybus)",
+        "slug": "chicoree",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1570,6 +1722,7 @@
       },
       {
         "name": "Chili, rot, frisch",
+        "slug": "chili",
         "emoji": "🌶",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1580,6 +1733,7 @@
       },
       {
         "name": "Chinakohl",
+        "slug": "chinakohl",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1590,6 +1744,7 @@
       },
       {
         "name": "Cornichons, eingelegt",
+        "slug": "cornichons",
         "emoji": "🥒",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -1600,6 +1755,7 @@
       },
       {
         "name": "Eisbergsalat",
+        "slug": "eisbergsalat",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1610,6 +1766,7 @@
       },
       {
         "name": "Endiviensalat, Endivie (Cichorium endivia)",
+        "slug": "endiviensalat",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1620,6 +1777,7 @@
       },
       {
         "name": "Gartenerbsen",
+        "slug": "gartenerbsen",
         "emoji": "🟢",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1630,6 +1788,7 @@
       },
       {
         "name": "Gelbe Spalterbse",
+        "slug": "gelbespalterbse",
         "emoji": "🟡",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1640,6 +1799,7 @@
       },
       {
         "name": "Grüne Spalterbse",
+        "slug": "gruenespalterbse",
         "emoji": "🟢",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1650,6 +1810,7 @@
       },
       {
         "name": "Essiggemüse",
+        "slug": "essiggemuese",
         "emoji": "🥫",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -1660,6 +1821,7 @@
       },
       {
         "name": "Essiggurken, Gewürzgurken, eingelegt",
+        "slug": "essiggurken",
         "emoji": "🥒",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -1670,6 +1832,7 @@
       },
       {
         "name": "Favabohne (Vicia faba)",
+        "slug": "favabohne",
         "emoji": "🟢",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1680,6 +1843,7 @@
       },
       {
         "name": "Feldsalat",
+        "slug": "feldsalat",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1690,6 +1854,7 @@
       },
       {
         "name": "Fenchel",
+        "slug": "fenchel",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1700,6 +1865,7 @@
       },
       {
         "name": "Gurken: Salatgurke",
+        "slug": "gurken",
         "emoji": "🥒",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1710,6 +1876,7 @@
       },
       {
         "name": "Herbstrübe",
+        "slug": "herbstruebe",
         "emoji": "🥕",
         "verträglichkeit": "?",
         "histamin": "",
@@ -1720,6 +1887,7 @@
       },
       {
         "name": "Hülsenfrüchte (Soja, Bohnen, Erbsen, Linsen...)",
+        "slug": "huelsenfruechte",
         "emoji": "🟠",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1730,6 +1898,7 @@
       },
       {
         "name": "Kaiserschote",
+        "slug": "kaiserschote",
         "emoji": "🥬",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1740,6 +1909,7 @@
       },
       {
         "name": "Kraut, Weißkohl",
+        "slug": "kraut",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1750,6 +1920,7 @@
       },
       {
         "name": "Karotte",
+        "slug": "karotte",
         "emoji": "🥕",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1760,6 +1931,7 @@
       },
       {
         "name": "Kelp (Seetang, Riesentang, eine Alge)",
+        "slug": "kelp",
         "emoji": "🍃",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1770,6 +1942,7 @@
       },
       {
         "name": "Kichererbse",
+        "slug": "kichererbse",
         "emoji": "🟡",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1780,6 +1953,7 @@
       },
       {
         "name": "Knoblauch",
+        "slug": "knoblauch",
         "emoji": "🧄",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1790,6 +1964,7 @@
       },
       {
         "name": "Kohlrabi",
+        "slug": "kohlrabi",
         "emoji": "🥬",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1800,6 +1975,7 @@
       },
       {
         "name": "Kohlsorten (außer Rosenkohl, Kohlrabi)",
+        "slug": "kohlsorten",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1810,6 +1986,7 @@
       },
       {
         "name": "Kohlsprossen, Rosenkohl",
+        "slug": "kohlsprossen",
         "emoji": "🟢",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1820,6 +1997,7 @@
       },
       {
         "name": "Krautstiele (Beta vulgaris subsp. vulgaris)",
+        "slug": "krautstiele",
         "emoji": "🥬",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1830,6 +2008,7 @@
       },
       {
         "name": "Kresse: Gartenkresse (Lepidium sativum)",
+        "slug": "kresse",
         "emoji": "☘",
         "verträglichkeit": "?",
         "histamin": "",
@@ -1840,6 +2019,7 @@
       },
       {
         "name": "Kürbisse, div. Sorten",
+        "slug": "kuerbisse",
         "emoji": "🎃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1850,6 +2030,7 @@
       },
       {
         "name": "Lauch",
+        "slug": "lauch",
         "emoji": "🥬",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1860,6 +2041,7 @@
       },
       {
         "name": "Linsen",
+        "slug": "linsen",
         "emoji": "🟠",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1870,6 +2052,7 @@
       },
       {
         "name": "Mangold",
+        "slug": "mangold",
         "emoji": "🥬",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1880,6 +2063,7 @@
       },
       {
         "name": "Meerrettich",
+        "slug": "meerrettich",
         "emoji": "🍠",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1890,6 +2074,7 @@
       },
       {
         "name": "Melanzani, Melanzana",
+        "slug": "melanzani",
         "emoji": "🥬",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -1900,6 +2085,7 @@
       },
       {
         "name": "Möhre, Mohrrübe",
+        "slug": "moehre",
         "emoji": "🥕",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1910,6 +2096,7 @@
       },
       {
         "name": "Mungbohnen (-keimlinge/-sprossen)",
+        "slug": "mungbohnen",
         "emoji": "🌱",
         "verträglichkeit": "?",
         "histamin": "",
@@ -1920,6 +2107,7 @@
       },
       {
         "name": "Oliven",
+        "slug": "oliven",
         "emoji": "⚫",
         "verträglichkeit": 2,
         "histamin": "?",
@@ -1930,6 +2118,7 @@
       },
       {
         "name": "Pak Choi",
+        "slug": "pakchoi",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1940,6 +2129,7 @@
       },
       {
         "name": "Paprika, Peperoni, milde Sorten",
+        "slug": "paprikamild",
         "emoji": "🌶",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1950,6 +2140,7 @@
       },
       {
         "name": "Paprika, Peperoni, scharfe Sorten",
+        "slug": "paprikascharf",
         "emoji": "🌶",
         "verträglichkeit": 2,
         "histamin": "",
@@ -1960,6 +2151,7 @@
       },
       {
         "name": "Tomaten",
+        "slug": "tomaten",
         "emoji": "🍅",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -1970,6 +2162,7 @@
       },
       {
         "name": "Pastinaken",
+        "slug": "pastinaken",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -1980,6 +2173,7 @@
       },
       {
         "name": "Porree",
+        "slug": "porree",
         "emoji": "🥬",
         "verträglichkeit": 1,
         "histamin": "",
@@ -1990,6 +2184,7 @@
       },
       {
         "name": "Radieschen",
+        "slug": "radieschen",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2000,6 +2195,7 @@
       },
       {
         "name": "Rettich: Bierrettich, mild",
+        "slug": "rettich",
         "emoji": "🍠",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2010,6 +2206,7 @@
       },
       {
         "name": "Rosenkohl",
+        "slug": "rosenkohl",
         "emoji": "🟢",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2020,6 +2217,7 @@
       },
       {
         "name": "Rote Bete, Rote Beete",
+        "slug": "rotebeete",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2030,6 +2228,7 @@
       },
       {
         "name": "Rotkohl",
+        "slug": "rotkohl",
         "emoji": "🟣",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2040,6 +2239,7 @@
       },
       {
         "name": "Rucola, Rukola",
+        "slug": "rucola",
         "emoji": "🌿",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2050,6 +2250,7 @@
       },
       {
         "name": "Saubohne (Vicia faba)",
+        "slug": "saubohne",
         "emoji": "🟢",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2060,6 +2261,7 @@
       },
       {
         "name": "Sauerkraut",
+        "slug": "sauerkraut",
         "emoji": "🥬",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -2070,6 +2272,7 @@
       },
       {
         "name": "Schweinsbohne (Vicia faba)",
+        "slug": "schweinsbohne",
         "emoji": "🟢",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2080,6 +2283,7 @@
       },
       {
         "name": "Sellerie: Knollensellerie",
+        "slug": "knollensellerie",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2090,6 +2294,7 @@
       },
       {
         "name": "Senfkohl",
+        "slug": "senfkohl",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2100,6 +2305,7 @@
       },
       {
         "name": "Soja (Sojabohne, Sojamehl)",
+        "slug": "soja",
         "emoji": "🟡",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2110,6 +2316,7 @@
       },
       {
         "name": "Sojasprossen [irrtümliche Bezeichnung. Korrekt: Mung-Sprossen]",
+        "slug": "sojasprossen",
         "emoji": "🌱",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2120,6 +2327,7 @@
       },
       {
         "name": "Spargel",
+        "slug": "spargel",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2130,6 +2338,7 @@
       },
       {
         "name": "Speiserübe",
+        "slug": "speiseruebe",
         "emoji": "🥕",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2140,6 +2349,7 @@
       },
       {
         "name": "Spinat",
+        "slug": "spinat",
         "emoji": "🥬",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2150,6 +2360,7 @@
       },
       {
         "name": "Stangensellerie",
+        "slug": "stangensellerie",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2160,6 +2371,7 @@
       },
       {
         "name": "Weisskohl, Weisskabis, Weisskraut, Weißkohl, Weißkabis, Weißkraut",
+        "slug": "weisskohl",
         "emoji": "🥬",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2170,6 +2382,7 @@
       },
       {
         "name": "Wirsing",
+        "slug": "wirsing",
         "emoji": "🥬",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2180,6 +2393,7 @@
       },
       {
         "name": "Wilde Rauke",
+        "slug": "rauke",
         "emoji": "🌿",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2190,6 +2404,7 @@
       },
       {
         "name": "Zucchini, Zucchetti",
+        "slug": "zucchini",
         "emoji": "🥒",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2200,6 +2415,7 @@
       },
       {
         "name": "Zuckererbse, Zuckerschote",
+        "slug": "zuckererbse",
         "emoji": "🟢",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2210,6 +2426,7 @@
       },
       {
         "name": "Zwiebel: Weisse Zwiebel, Weiße Zwiebel",
+        "slug": "zwiebelweiss",
         "emoji": "🧅",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2220,6 +2437,7 @@
       },
       {
         "name": "Zwiebeln: alle Sorten außer Weiße Zwiebel",
+        "slug": "zwiebel",
         "emoji": "🧅",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2235,6 +2453,7 @@
     "list": [
       {
         "name": "Bärlauch (Allium ursinum)",
+        "slug": "baerlauch",
         "emoji": "🌿",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2245,6 +2464,7 @@
       },
       {
         "name": "Basilikum",
+        "slug": "basilikum",
         "emoji": "🍃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2255,6 +2475,7 @@
       },
       {
         "name": "Bockshornklee",
+        "slug": "bockshornklee",
         "emoji": "☘",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2265,6 +2486,7 @@
       },
       {
         "name": "Bohnenkraut",
+        "slug": "bohnenkraut",
         "emoji": "🌿",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2275,6 +2497,7 @@
       },
       {
         "name": "Dill",
+        "slug": "dill",
         "emoji": "🌿",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2285,6 +2508,7 @@
       },
       {
         "name": "Kleesorten (Trigonella- und Trifolium-Arten)",
+        "slug": "kleesorten",
         "emoji": "☘",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2295,6 +2519,7 @@
       },
       {
         "name": "Oregano",
+        "slug": "oregano",
         "emoji": "🌿",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2305,6 +2530,7 @@
       },
       {
         "name": "Petersilie",
+        "slug": "petersilie",
         "emoji": "🌿",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2315,6 +2541,7 @@
       },
       {
         "name": "Pfefferminze",
+        "slug": "pfefferminze",
         "emoji": "🌿",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2325,6 +2552,7 @@
       },
       {
         "name": "Rosmarin",
+        "slug": "rosmarin",
         "emoji": "🌿",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2335,6 +2563,7 @@
       },
       {
         "name": "Salbei",
+        "slug": "salbei",
         "emoji": "🍃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2345,6 +2574,7 @@
       },
       {
         "name": "Schabzigerklee",
+        "slug": "schabzigerklee",
         "emoji": "☘",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2355,6 +2585,7 @@
       },
       {
         "name": "Schnittlauch",
+        "slug": "schnittlauch",
         "emoji": "🌿",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2370,6 +2601,7 @@
     "list": [
       {
         "name": "Acerola Kirsche",
+        "slug": "acerola",
         "emoji": "🍒",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2380,6 +2612,7 @@
       },
       {
         "name": "Ananas",
+        "slug": "ananas",
         "emoji": "🍍",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2390,6 +2623,7 @@
       },
       {
         "name": "Apfel",
+        "slug": "apfel",
         "emoji": "🍏",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2400,6 +2634,7 @@
       },
       {
         "name": "Aprikose",
+        "slug": "aprikose",
         "emoji": "🍑",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2410,6 +2645,7 @@
       },
       {
         "name": "Aronia, Apfelbeeren",
+        "slug": "aronia",
         "emoji": "🍓",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2420,6 +2656,7 @@
       },
       {
         "name": "Avocado",
+        "slug": "avocado",
         "emoji": "🥑",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -2430,6 +2667,7 @@
       },
       {
         "name": "Banane",
+        "slug": "banane",
         "emoji": "🍌",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2440,6 +2678,7 @@
       },
       {
         "name": "Baumtomate (Solanum betaceum)",
+        "slug": "baumtomate",
         "emoji": "🍅",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2450,6 +2689,7 @@
       },
       {
         "name": "Birne",
+        "slug": "birne",
         "emoji": "🍐",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2459,17 +2699,8 @@
         "anmerkungen": ""
       },
       {
-        "name": "Birne: Nashi-Birne",
-        "emoji": "🍐",
-        "verträglichkeit": "?",
-        "histamin": "",
-        "amine": "",
-        "liberator": "",
-        "blocker": "",
-        "anmerkungen": ""
-      },
-      {
         "name": "Blaubeere (Vaccinium myrtillus)",
+        "slug": "blaubeere",
         "emoji": "🔵",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2480,6 +2711,7 @@
       },
       {
         "name": "Bocksdorn-Beeren, Goji-Beeren",
+        "slug": "goji",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2490,6 +2722,7 @@
       },
       {
         "name": "Brombeeren",
+        "slug": "brombeeren",
         "emoji": "🍓",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2500,6 +2733,7 @@
       },
       {
         "name": "Cassis",
+        "slug": "cassis",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2510,6 +2744,7 @@
       },
       {
         "name": "Cranberry",
+        "slug": "cranberry",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2520,6 +2755,7 @@
       },
       {
         "name": "Datteln, getrocknet",
+        "slug": "datteln",
         "emoji": "🟤",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2530,6 +2766,7 @@
       },
       {
         "name": "Drachenfrucht, Pitaya, Pitahaya",
+        "slug": "pitaya",
         "emoji": "🐲",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2540,6 +2777,7 @@
       },
       {
         "name": "Erdbeere",
+        "slug": "erdbeere",
         "emoji": "🍓",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2550,6 +2788,7 @@
       },
       {
         "name": "Feigen, frisch oder getrocknet",
+        "slug": "feigen",
         "emoji": "🟣",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2560,6 +2799,7 @@
       },
       {
         "name": "Goiaba, Guave, Psidium guajava",
+        "slug": "goiaba",
         "emoji": "🟢",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2570,6 +2810,7 @@
       },
       {
         "name": "Granatapfel (rotes Fleisch ohne Kerne)",
+        "slug": "granatapfel",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2580,6 +2821,7 @@
       },
       {
         "name": "Grapefruit",
+        "slug": "grapefruit",
         "emoji": "🍊",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2590,6 +2832,7 @@
       },
       {
         "name": "Guave",
+        "slug": "guave",
         "emoji": "🟢",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2600,6 +2843,7 @@
       },
       {
         "name": "Hagebutte",
+        "slug": "hagebutte",
         "emoji": "🔴",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2610,6 +2854,7 @@
       },
       {
         "name": "Heidelbeeren",
+        "slug": "heidelbeeren",
         "emoji": "🔵",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2620,6 +2865,7 @@
       },
       {
         "name": "Himbeeren",
+        "slug": "himbeeren",
         "emoji": "🍓",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2630,6 +2876,7 @@
       },
       {
         "name": "Holunderbeeren, Schwarzer Holunder",
+        "slug": "holunder",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2640,6 +2887,7 @@
       },
       {
         "name": "Hunds-Rose, Hundsrose (Rosa canina)",
+        "slug": "hundsrose",
         "emoji": "🌸",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2650,6 +2898,7 @@
       },
       {
         "name": "Johannisbeere, rote",
+        "slug": "johannisbeere",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2660,6 +2909,7 @@
       },
       {
         "name": "Jostabeeren",
+        "slug": "jostabeeren",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2670,6 +2920,7 @@
       },
       {
         "name": "Kakao, Kakaopulver (Schokolade etc.)",
+        "slug": "kakao",
         "emoji": "🍫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2680,6 +2931,7 @@
       },
       {
         "name": "Kakaobutter",
+        "slug": "kakaobutter",
         "emoji": "🧈",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2690,6 +2942,7 @@
       },
       {
         "name": "Kaki",
+        "slug": "kaki",
         "emoji": "🟠",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2700,6 +2953,7 @@
       },
       {
         "name": "Kaktusfeigen (Opuntia ficus-indica)",
+        "slug": "kaktusfeigen",
         "emoji": "🌵",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2710,6 +2964,7 @@
       },
       {
         "name": "Kirsche",
+        "slug": "kirsche",
         "emoji": "🍒",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2720,6 +2975,7 @@
       },
       {
         "name": "Kiwi",
+        "slug": "kiwi",
         "emoji": "🥝",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2730,6 +2986,7 @@
       },
       {
         "name": "Kokosnuss, Kokosraspel, Kokosmilch",
+        "slug": "kokosnuss",
         "emoji": "🥥",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2740,6 +2997,7 @@
       },
       {
         "name": "Korinthen",
+        "slug": "korinthen",
         "emoji": "🍇",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2750,6 +3008,7 @@
       },
       {
         "name": "Kranbeere (Vaccinium macrocarpon)",
+        "slug": "kranbeere",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2760,6 +3019,7 @@
       },
       {
         "name": "Kronsbeere (Vaccinium vitis-idaea)",
+        "slug": "kronsbeere",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2770,6 +3030,7 @@
       },
       {
         "name": "Limette",
+        "slug": "limette",
         "emoji": "🍋",
         "verträglichkeit": 3,
         "histamin": "",
@@ -2780,6 +3041,7 @@
       },
       {
         "name": "Limone",
+        "slug": "limone",
         "emoji": "🍋",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2790,6 +3052,7 @@
       },
       {
         "name": "Litchi, Litschi",
+        "slug": "litschi",
         "emoji": "⚪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2800,6 +3063,7 @@
       },
       {
         "name": "Loganbeere",
+        "slug": "loganbeere",
         "emoji": "🔴",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2810,6 +3074,7 @@
       },
       {
         "name": "Mandarine",
+        "slug": "mandarine",
         "emoji": "🍊",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2820,6 +3085,7 @@
       },
       {
         "name": "Mango",
+        "slug": "mango",
         "emoji": "🥭",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2830,6 +3096,7 @@
       },
       {
         "name": "Maracuja (Passiflora edulis / flavicarpa)",
+        "slug": "maracuja",
         "emoji": "🟠",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2840,6 +3107,7 @@
       },
       {
         "name": "Marille",
+        "slug": "marille",
         "emoji": "🍑",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2850,6 +3118,7 @@
       },
       {
         "name": "Maulbeere",
+        "slug": "maulbeere",
         "emoji": "🔴",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2860,6 +3129,7 @@
       },
       {
         "name": "Melonen (außer Wassermelone)",
+        "slug": "melonen",
         "emoji": "🍈",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2870,6 +3140,7 @@
       },
       {
         "name": "Nashi-Birne",
+        "slug": "nashibirne",
         "emoji": "🍐",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2880,6 +3151,7 @@
       },
       {
         "name": "Nektarinen",
+        "slug": "nektarinen",
         "emoji": "🍎",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2890,6 +3162,7 @@
       },
       {
         "name": "Orangen",
+        "slug": "orangen",
         "emoji": "🍊",
         "verträglichkeit": 3,
         "histamin": "",
@@ -2900,6 +3173,7 @@
       },
       {
         "name": "Orangenschale",
+        "slug": "orangenschale",
         "emoji": "🍊",
         "verträglichkeit": 3,
         "histamin": "",
@@ -2910,6 +3184,7 @@
       },
       {
         "name": "Papaya",
+        "slug": "papaya",
         "emoji": "🟠",
         "verträglichkeit": 2,
         "histamin": "",
@@ -2920,6 +3195,7 @@
       },
       {
         "name": "Passionsfrucht",
+        "slug": "passionsfrucht",
         "emoji": "⚫",
         "verträglichkeit": "?",
         "histamin": "",
@@ -2930,6 +3206,7 @@
       },
       {
         "name": "Persimone",
+        "slug": "persimone",
         "emoji": "🟠",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2940,6 +3217,7 @@
       },
       {
         "name": "Pfirsich",
+        "slug": "pfirsich",
         "emoji": "🍑",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2950,6 +3228,7 @@
       },
       {
         "name": "Pflaumen-Arten",
+        "slug": "pflaumen",
         "emoji": "🟣",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2960,6 +3239,7 @@
       },
       {
         "name": "Preiselbeere",
+        "slug": "preiselbeere",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2970,6 +3250,7 @@
       },
       {
         "name": "Quitten",
+        "slug": "quitten",
         "emoji": "🍐",
         "verträglichkeit": 0,
         "histamin": "",
@@ -2980,6 +3261,7 @@
       },
       {
         "name": "Rhabarber",
+        "slug": "rhabarber",
         "emoji": "🥬",
         "verträglichkeit": 1,
         "histamin": "",
@@ -2990,6 +3272,7 @@
       },
       {
         "name": "Rosinen",
+        "slug": "rosinen",
         "emoji": "🍇",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3000,6 +3283,7 @@
       },
       {
         "name": "Rote Johannisbeere",
+        "slug": "rotejohannisbeere",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3010,6 +3294,7 @@
       },
       {
         "name": "Sanddorn",
+        "slug": "sanddorn",
         "emoji": "🟡",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3020,6 +3305,7 @@
       },
       {
         "name": "Sauerkirsche",
+        "slug": "sauerkirsche",
         "emoji": "🍒",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3030,6 +3316,7 @@
       },
       {
         "name": "Schwarze Johannisbeere",
+        "slug": "schwarzejohannisbeere",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3040,6 +3327,7 @@
       },
       {
         "name": "Schwarzer Holunder",
+        "slug": "schwarzerholunder",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3050,6 +3338,7 @@
       },
       {
         "name": "Sharonfrucht",
+        "slug": "sharonfrucht",
         "emoji": "🟠",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3060,6 +3349,7 @@
       },
       {
         "name": "Stachelbeeren",
+        "slug": "stachelbeeren",
         "emoji": "🟢",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3070,6 +3360,7 @@
       },
       {
         "name": "Sternfrucht, Karambole, Karambola",
+        "slug": "sternfrucht",
         "emoji": "⭐",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3080,6 +3371,7 @@
       },
       {
         "name": "Sultaninen",
+        "slug": "sultaninen",
         "emoji": "🍇",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3090,6 +3382,7 @@
       },
       {
         "name": "Tamarillo",
+        "slug": "tamarillo",
         "emoji": "🔴",
         "verträglichkeit": "?",
         "histamin": "",
@@ -3100,6 +3393,7 @@
       },
       {
         "name": "Trauben, Weintrauben",
+        "slug": "trauben",
         "emoji": "🍇",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3110,6 +3404,7 @@
       },
       {
         "name": "Wassermelonen",
+        "slug": "wassermelone",
         "emoji": "🍉",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3120,6 +3415,7 @@
       },
       {
         "name": "Weichselkirsche",
+        "slug": "weichselkirsche",
         "emoji": "🍒",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3130,6 +3426,7 @@
       },
       {
         "name": "Weinbeeren, getrocknet (Rosinen)",
+        "slug": "weinbeeren",
         "emoji": "🍇",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3140,6 +3437,7 @@
       },
       {
         "name": "Weintrauben",
+        "slug": "weintrauben",
         "emoji": "🍇",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3150,6 +3448,7 @@
       },
       {
         "name": "Zitrone",
+        "slug": "zitrone",
         "emoji": "🍋",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3160,6 +3459,7 @@
       },
       {
         "name": "Zitronenschale",
+        "slug": "zitronenschale",
         "emoji": "🍋",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3170,6 +3470,7 @@
       },
       {
         "name": "Zitrusfrüchte",
+        "slug": "zitrusfruechte",
         "emoji": "🍊",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3180,6 +3481,7 @@
       },
       {
         "name": "Zwetschge (Prunus domestica subsp. domestica)",
+        "slug": "zwetschge",
         "emoji": "🟣",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3195,6 +3497,7 @@
     "list": [
       {
         "name": "Chia-Samen (Salvia hispanica)",
+        "slug": "chia",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3205,6 +3508,7 @@
       },
       {
         "name": "Flohsamen, Flohsamenschalen",
+        "slug": "flohsamen",
         "emoji": "🟤",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3215,6 +3519,7 @@
       },
       {
         "name": "Kürbiskerne",
+        "slug": "kuerbiskerne",
         "emoji": "🎃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3225,6 +3530,7 @@
       },
       {
         "name": "Sesam",
+        "slug": "sesam",
         "emoji": "🟡",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3240,6 +3546,7 @@
     "list": [
       {
         "name": "Algen und Algenbestandteile",
+        "slug": "algen",
         "emoji": "🍃",
         "verträglichkeit": 3,
         "histamin": "",
@@ -3250,6 +3557,7 @@
       },
       {
         "name": "Backhefe, Bäckerhefe (frisch / getrocknet)",
+        "slug": "backhefe",
         "emoji": "🟫",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3260,6 +3568,7 @@
       },
       {
         "name": "Bierhefe (frisch / getrocknet)",
+        "slug": "bierhefe",
         "emoji": "🍺",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3270,6 +3579,7 @@
       },
       {
         "name": "Braunalgen, Algen",
+        "slug": "braunalgen",
         "emoji": "🍃",
         "verträglichkeit": 3,
         "histamin": "",
@@ -3280,6 +3590,7 @@
       },
       {
         "name": "Champignons",
+        "slug": "champignons",
         "emoji": "🍄",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3290,6 +3601,7 @@
       },
       {
         "name": "Gemeiner Steinpilz (Boletus edulis)",
+        "slug": "boletus",
         "emoji": "🍄",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3300,6 +3612,7 @@
       },
       {
         "name": "Gest, Germ, Hefe (frisch / getrocknet)",
+        "slug": "gest",
         "emoji": "🟫",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3310,6 +3623,7 @@
       },
       {
         "name": "Grünalgen, Algen",
+        "slug": "gruenalgen",
         "emoji": "🍃",
         "verträglichkeit": 3,
         "histamin": "",
@@ -3320,6 +3634,7 @@
       },
       {
         "name": "Hefe (frisch / getrocknet)",
+        "slug": "hefe",
         "emoji": "🟫",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3330,6 +3645,7 @@
       },
       {
         "name": "Kombu-Algen",
+        "slug": "kombu",
         "emoji": "🍃",
         "verträglichkeit": 3,
         "histamin": "",
@@ -3340,6 +3656,7 @@
       },
       {
         "name": "Meeresalgen, Meeralgen",
+        "slug": "meeresalgen",
         "emoji": "🍃",
         "verträglichkeit": 3,
         "histamin": "",
@@ -3350,6 +3667,7 @@
       },
       {
         "name": "Morcheln",
+        "slug": "morcheln",
         "emoji": "🍄",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3360,6 +3678,7 @@
       },
       {
         "name": "Nori-Algen",
+        "slug": "nori",
         "emoji": "🍃",
         "verträglichkeit": 3,
         "histamin": "",
@@ -3370,6 +3689,7 @@
       },
       {
         "name": "Pilze, diverse Arten",
+        "slug": "pilze",
         "emoji": "🍄",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3380,7 +3700,8 @@
       },
       {
         "name": "Rotalgen, Algen",
-        "emoji": "🍃",
+        "slug": "rotalgen",
+        "emoji": "🍂",
         "verträglichkeit": 3,
         "histamin": "",
         "amine": "",
@@ -3390,6 +3711,7 @@
       },
       {
         "name": "Schwammerl",
+        "slug": "schwammerl",
         "emoji": "🍄",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3400,6 +3722,7 @@
       },
       {
         "name": "Seetang, Algen",
+        "slug": "seetang",
         "emoji": "🍃",
         "verträglichkeit": 3,
         "histamin": "",
@@ -3410,6 +3733,7 @@
       },
       {
         "name": "Steinpilze",
+        "slug": "steinpilze",
         "emoji": "🍄",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3420,6 +3744,7 @@
       },
       {
         "name": "Wakame-Algen",
+        "slug": "wakame",
         "emoji": "🍃",
         "verträglichkeit": 3,
         "histamin": "",
@@ -3435,6 +3760,7 @@
     "list": [
       {
         "name": "Agavendicksaft, Agavensirup",
+        "slug": "agavensirup",
         "emoji": "🧴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3445,6 +3771,7 @@
       },
       {
         "name": "Ahornsirup",
+        "slug": "ahornsirup",
         "emoji": "🍁",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3455,6 +3782,7 @@
       },
       {
         "name": "Birkenzucker, Xylit, Xylitol, E967",
+        "slug": "birkenzucker",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3465,6 +3793,7 @@
       },
       {
         "name": "Dextrose",
+        "slug": "dextrose",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3475,6 +3804,7 @@
       },
       {
         "name": "E420, Sorbit, Sorbitol",
+        "slug": "e420",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3485,6 +3815,7 @@
       },
       {
         "name": "E967, Xylit, Xylitol, Birkenzucker",
+        "slug": "e967",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3495,6 +3826,7 @@
       },
       {
         "name": "Fruchtzucker",
+        "slug": "fruchtzucker",
         "emoji": "🍎",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3505,6 +3837,7 @@
       },
       {
         "name": "Fructose",
+        "slug": "fructose",
         "emoji": "🍎",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3515,6 +3848,7 @@
       },
       {
         "name": "Gebrannter Zucker",
+        "slug": "gebrannterzucker",
         "emoji": "🔥",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3525,6 +3859,7 @@
       },
       {
         "name": "Glucose",
+        "slug": "glucose",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3535,6 +3870,7 @@
       },
       {
         "name": "Glucosesirup",
+        "slug": "glucosesirup",
         "emoji": "🧴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3545,6 +3881,7 @@
       },
       {
         "name": "Honig",
+        "slug": "honig",
         "emoji": "🍯",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3555,6 +3892,7 @@
       },
       {
         "name": "Invertzucker, Invertose, Invertzuckersirup",
+        "slug": "invertzucker",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3565,6 +3903,7 @@
       },
       {
         "name": "Karamell",
+        "slug": "karamell",
         "emoji": "🟤",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3575,6 +3914,7 @@
       },
       {
         "name": "Kristallzucker",
+        "slug": "kristallzucker",
         "emoji": "🧂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3585,6 +3925,7 @@
       },
       {
         "name": "Künstliche Süssstoffe, künstliche Süßstoffe",
+        "slug": "suessstoffe",
         "emoji": "🧪",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3595,6 +3936,7 @@
       },
       {
         "name": "Lactose",
+        "slug": "lactose",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3605,6 +3947,7 @@
       },
       {
         "name": "Maltose",
+        "slug": "maltose",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3615,6 +3958,7 @@
       },
       {
         "name": "Malzextrakt",
+        "slug": "malzextrakt",
         "emoji": "🧪",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3625,6 +3969,7 @@
       },
       {
         "name": "Malzzucker, rein",
+        "slug": "malzzucker",
         "emoji": "🧂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3635,6 +3980,7 @@
       },
       {
         "name": "Milchzucker",
+        "slug": "milchzucker",
         "emoji": "🥛",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3645,6 +3991,7 @@
       },
       {
         "name": "Palmzucker",
+        "slug": "palmzucker",
         "emoji": "🌴",
         "verträglichkeit": "?",
         "histamin": "",
@@ -3655,6 +4002,7 @@
       },
       {
         "name": "Rohrzucker",
+        "slug": "rohrzucker",
         "emoji": "🧂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3665,6 +4013,7 @@
       },
       {
         "name": "Rübenzucker",
+        "slug": "ruebenzucker",
         "emoji": "🥕",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3675,6 +4024,7 @@
       },
       {
         "name": "Saccharose",
+        "slug": "saccharose",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3685,6 +4035,7 @@
       },
       {
         "name": "Sorbit, Sorbitol, Glucitol, Hexanhexol, E420",
+        "slug": "sorbit",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3695,6 +4046,7 @@
       },
       {
         "name": "Stevia (Stevia-Blätter, Steviosid flüssig/pulverförmig)",
+        "slug": "stevia",
         "emoji": "🍃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3705,6 +4057,7 @@
       },
       {
         "name": "Süssholz, Süßholz",
+        "slug": "suessholz",
         "emoji": "🪓",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3715,6 +4068,7 @@
       },
       {
         "name": "Traubenzucker",
+        "slug": "traubenzucker",
         "emoji": "🍇",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3725,6 +4079,7 @@
       },
       {
         "name": "Xylit, Xylitol, Birkenzucker, E967",
+        "slug": "xylit",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3735,6 +4090,7 @@
       },
       {
         "name": "Zucker",
+        "slug": "zucker",
         "emoji": "🧂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3750,6 +4106,7 @@
     "list": [
       {
         "name": "Alkoholessig",
+        "slug": "alkoholessig",
         "emoji": "🥃",
         "verträglichkeit": 0,
         "histamin": "?",
@@ -3760,6 +4117,7 @@
       },
       {
         "name": "Anis",
+        "slug": "anis",
         "emoji": "🌿",
         "verträglichkeit": "?",
         "histamin": "",
@@ -3770,6 +4128,7 @@
       },
       {
         "name": "Bouillon",
+        "slug": "bouillon",
         "emoji": "🥫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3780,6 +4139,7 @@
       },
       {
         "name": "Branntweinessig",
+        "slug": "branntweinessig",
         "emoji": "🧴",
         "verträglichkeit": 0,
         "histamin": "?",
@@ -3790,6 +4150,7 @@
       },
       {
         "name": "Brühe, Brühwürfel/-pulver",
+        "slug": "bruehe",
         "emoji": "🟫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3800,6 +4161,7 @@
       },
       {
         "name": "Cumin",
+        "slug": "cumin",
         "emoji": "🟤",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3810,6 +4172,7 @@
       },
       {
         "name": "Curcuma",
+        "slug": "curcuma",
         "emoji": "🟡",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3820,6 +4183,7 @@
       },
       {
         "name": "Curry",
+        "slug": "curry",
         "emoji": "🟡",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3830,6 +4194,7 @@
       },
       {
         "name": "Essig: Aceto Balsamico, Balsamessig",
+        "slug": "balsamessig",
         "emoji": "🍇",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -3839,17 +4204,8 @@
         "anmerkungen": ""
       },
       {
-        "name": "Essig: Alkoholessig, Branntweinessig, Weingeistessig, Essigessenz",
-        "emoji": "🧴",
-        "verträglichkeit": 0,
-        "histamin": "?",
-        "amine": "",
-        "liberator": "",
-        "blocker": "",
-        "anmerkungen": "Histaminärmster Essig, aber nicht histaminfrei. Sparsam verwenden. Auf Zusatzstoffe achten!"
-      },
-      {
         "name": "Essig: Apfelessig",
+        "slug": "apfelessig",
         "emoji": "🍏",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -3860,6 +4216,7 @@
       },
       {
         "name": "Essig: Rotweinessig",
+        "slug": "rotweinessig",
         "emoji": "🍷",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -3870,6 +4227,7 @@
       },
       {
         "name": "Essig: Weissweinessig",
+        "slug": "weissweinessig",
         "emoji": "🍷",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -3880,6 +4238,7 @@
       },
       {
         "name": "Essigessenz",
+        "slug": "essigessenz",
         "emoji": "🧪",
         "verträglichkeit": 0,
         "histamin": "?",
@@ -3890,6 +4249,7 @@
       },
       {
         "name": "Fleischextrakt",
+        "slug": "fleischextrakt",
         "emoji": "🥩",
         "verträglichkeit": 2,
         "histamin": "?",
@@ -3900,6 +4260,7 @@
       },
       {
         "name": "Gelbwurz (Curcuma longa)",
+        "slug": "gelbwurz",
         "emoji": "🟡",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3910,6 +4271,7 @@
       },
       {
         "name": "Gewürznelken, Nelken",
+        "slug": "gewuerznelken",
         "emoji": "☘",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3920,6 +4282,7 @@
       },
       {
         "name": "Hefeextrakt",
+        "slug": "hefeextrakt",
         "emoji": "🥫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3930,6 +4293,7 @@
       },
       {
         "name": "Ingwer",
+        "slug": "ingwer",
         "emoji": "🍠",
         "verträglichkeit": 1,
         "histamin": "",
@@ -3940,6 +4304,7 @@
       },
       {
         "name": "Kardamom",
+        "slug": "kardamom",
         "emoji": "🌿",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3950,6 +4315,7 @@
       },
       {
         "name": "Koriander, Echter Koriander, Gewürzkoriander, (Coriandrum sativum)",
+        "slug": "koriander",
         "emoji": "🍃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3960,6 +4326,7 @@
       },
       {
         "name": "Kreuzkümmel (Cuminum cyminum)",
+        "slug": "kreuzkuemmel",
         "emoji": "🟤",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3970,6 +4337,7 @@
       },
       {
         "name": "Kumin",
+        "slug": "kumin",
         "emoji": "🟤",
         "verträglichkeit": 2,
         "histamin": "",
@@ -3980,6 +4348,7 @@
       },
       {
         "name": "Kümmel: Echter Kümmel (Carum carvi)",
+        "slug": "kuemmel",
         "emoji": "🟤",
         "verträglichkeit": 0,
         "histamin": "",
@@ -3990,6 +4359,7 @@
       },
       {
         "name": "Kurkuma",
+        "slug": "kurkuma",
         "emoji": "🟡",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4000,6 +4370,7 @@
       },
       {
         "name": "Lorbeerblätter, Echter Lorbeer (Laurus nobilis), Edler Lorbeer, Gewürzlorbeer",
+        "slug": "lorbeer",
         "emoji": "🍃",
         "verträglichkeit": "?",
         "histamin": "",
@@ -4010,6 +4381,7 @@
       },
       {
         "name": "Mohnsamen",
+        "slug": "mohnsamen",
         "emoji": "⚫",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4020,6 +4392,7 @@
       },
       {
         "name": "Muskatnuss",
+        "slug": "muskatnuss",
         "emoji": "🌰",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4030,6 +4403,7 @@
       },
       {
         "name": "Paprikapulver, mild",
+        "slug": "paprikapulvermild",
         "emoji": "🌶",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4040,6 +4414,7 @@
       },
       {
         "name": "Paprikapulver, scharf",
+        "slug": "paprikapulverscharf",
         "emoji": "🌶",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4050,6 +4425,7 @@
       },
       {
         "name": "Pfeffer, schwarz",
+        "slug": "pfefferschwarz",
         "emoji": "⚫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4060,6 +4436,7 @@
       },
       {
         "name": "Pfeffer, weiß",
+        "slug": "pfefferweiss",
         "emoji": "🧂",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4070,6 +4447,7 @@
       },
       {
         "name": "Schwarzkümmel (Nigella sativa)",
+        "slug": "schwarzkuemmel",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4080,6 +4458,7 @@
       },
       {
         "name": "Senf, Senfkörner, Senfsamenpulver",
+        "slug": "senfkoerner",
         "emoji": "🌱",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4090,6 +4469,7 @@
       },
       {
         "name": "Sojasauce",
+        "slug": "sojasauce",
         "emoji": "🍶",
         "verträglichkeit": 3,
         "histamin": "",
@@ -4100,6 +4480,7 @@
       },
       {
         "name": "Sternanis",
+        "slug": "sternanis",
         "emoji": "⭐",
         "verträglichkeit": "?",
         "histamin": "",
@@ -4110,6 +4491,7 @@
       },
       {
         "name": "Thymian, Echter Thymian (Thymus vulgaris)",
+        "slug": "thymian",
         "emoji": "🌿",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4120,6 +4502,7 @@
       },
       {
         "name": "Vanille, Vanilleschoten, Vanillepulver, Vanillezucker",
+        "slug": "vanille",
         "emoji": "⚫",
         "verträglichkeit": 1,
         "histamin": "?",
@@ -4130,6 +4513,7 @@
       },
       {
         "name": "Vanilleextrakt",
+        "slug": "vanilleextrakt",
         "emoji": "🧪",
         "verträglichkeit": 1,
         "histamin": "?",
@@ -4140,6 +4524,7 @@
       },
       {
         "name": "Wacholderbeeren",
+        "slug": "wacholderbeeren",
         "emoji": "⚫",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4150,6 +4535,7 @@
       },
       {
         "name": "Weingeistessig",
+        "slug": "weingeistessig",
         "emoji": "🍷",
         "verträglichkeit": 0,
         "histamin": "?",
@@ -4160,6 +4546,7 @@
       },
       {
         "name": "Würze, Speisewürze, Suppenwürze (pflanzliches Eiweißhydrolysat)",
+        "slug": "wuerze",
         "emoji": "🥫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4170,6 +4557,7 @@
       },
       {
         "name": "Zimt, Zimtstangen, Zimtpulver",
+        "slug": "zimt",
         "emoji": "🟤",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4185,6 +4573,7 @@
     "list": [
       {
         "name": "Heilquellen-Wasser mit viel Schwefel/Kohlensäure/Fluor/Iod",
+        "slug": "heilquellen",
         "emoji": "💧",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4195,6 +4584,7 @@
       },
       {
         "name": "Leitungswasser",
+        "slug": "leitungswasser",
         "emoji": "💧",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4205,6 +4595,7 @@
       },
       {
         "name": "Mineralwasser ohne Kohlensäure",
+        "slug": "mineralwasser",
         "emoji": "💧",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4220,6 +4611,7 @@
     "list": [
       {
         "name": "Alkohol, rein (Ethanol)",
+        "slug": "alkoholrein",
         "emoji": "🧪",
         "verträglichkeit": 3,
         "histamin": "",
@@ -4230,6 +4622,7 @@
       },
       {
         "name": "Alkoholhaltige Getränke",
+        "slug": "alkoholhaltige",
         "emoji": "🍸",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -4240,6 +4633,7 @@
       },
       {
         "name": "Bier",
+        "slug": "bier",
         "emoji": "🍻",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -4250,6 +4644,7 @@
       },
       {
         "name": "Champagner",
+        "slug": "champagner",
         "emoji": "🥂",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -4260,6 +4655,7 @@
       },
       {
         "name": "Ethanol, Ethylalkohol",
+        "slug": "ethanol",
         "emoji": "🧪",
         "verträglichkeit": 3,
         "histamin": "",
@@ -4270,6 +4666,7 @@
       },
       {
         "name": "Rum",
+        "slug": "rum",
         "emoji": "🥃",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -4280,6 +4677,7 @@
       },
       {
         "name": "Schnäpse, klar (farblos)",
+        "slug": "schnaepseklar",
         "emoji": "🥃",
         "verträglichkeit": 2,
         "histamin": "?",
@@ -4290,6 +4688,7 @@
       },
       {
         "name": "Schnäpse, nicht klar (nicht farblos)",
+        "slug": "schnaepsedunkel",
         "emoji": "🥃",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -4300,6 +4699,7 @@
       },
       {
         "name": "Sekt",
+        "slug": "sekt",
         "emoji": "🥂",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -4310,6 +4710,7 @@
       },
       {
         "name": "Spirituosen, klar (farblos)",
+        "slug": "spirituosenklar",
         "emoji": "🥃",
         "verträglichkeit": 2,
         "histamin": "?",
@@ -4320,6 +4721,7 @@
       },
       {
         "name": "Spirituosen, nicht klar (nicht farblos)",
+        "slug": "spirituosendunkel",
         "emoji": "🥃",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -4330,6 +4732,7 @@
       },
       {
         "name": "Wein",
+        "slug": "wein",
         "emoji": "🍷",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -4340,6 +4743,7 @@
       },
       {
         "name": "Wein, histaminfrei (<0.1 mg/l)",
+        "slug": "weinhistaminfrei",
         "emoji": "🍷",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4350,6 +4754,7 @@
       },
       {
         "name": "Wein: Rotwein",
+        "slug": "rotwein",
         "emoji": "🍷",
         "verträglichkeit": 3,
         "histamin": "H",
@@ -4360,6 +4765,7 @@
       },
       {
         "name": "Wein: Schilcherwein",
+        "slug": "schilcherwein",
         "emoji": "🍷",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -4370,6 +4776,7 @@
       },
       {
         "name": "Wein: Weisswein, Weißwein",
+        "slug": "weisswein",
         "emoji": "🍷",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -4380,6 +4787,7 @@
       },
       {
         "name": "Weinbrand, Brandy",
+        "slug": "weinbrand",
         "emoji": "🥃",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -4395,6 +4803,7 @@
     "list": [
       {
         "name": "Brennnesseltee",
+        "slug": "brennsesseltee",
         "emoji": "🍃",
         "verträglichkeit": 1,
         "histamin": "H",
@@ -4405,6 +4814,7 @@
       },
       {
         "name": "Eisenkraut-Tee",
+        "slug": "eisenkrauttee",
         "emoji": "🍂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4415,6 +4825,7 @@
       },
       {
         "name": "Grüntee",
+        "slug": "gruentee",
         "emoji": "🍃",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4425,6 +4836,7 @@
       },
       {
         "name": "Kamillentee",
+        "slug": "kamillentee",
         "emoji": "🌿",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4435,6 +4847,7 @@
       },
       {
         "name": "Kräuterteemischungen aus Heilkräutern, z.B. Alpenkräutertee, Hustentee, Brusttee",
+        "slug": "kraeutertee",
         "emoji": "🌿",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4445,6 +4858,7 @@
       },
       {
         "name": "Lindenblütentee",
+        "slug": "lindenbluetentee",
         "emoji": "🌸",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4455,6 +4869,7 @@
       },
       {
         "name": "Mate Tee",
+        "slug": "matetee",
         "emoji": "🧉",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4465,6 +4880,7 @@
       },
       {
         "name": "Pfefferminztee",
+        "slug": "pfefferminztee",
         "emoji": "🍃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4475,6 +4891,7 @@
       },
       {
         "name": "Rooibostee",
+        "slug": "rooibostee",
         "emoji": "🍂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4485,6 +4902,7 @@
       },
       {
         "name": "Salbeitee",
+        "slug": "salbeitee",
         "emoji": "🍃",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4495,6 +4913,7 @@
       },
       {
         "name": "Schwarztee",
+        "slug": "schwarztee",
         "emoji": "🍃",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -4505,6 +4924,7 @@
       },
       {
         "name": "Verveine-Tee",
+        "slug": "verveinetee",
         "emoji": "🍂",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4520,6 +4940,7 @@
     "list": [
       {
         "name": "Cranberry Nektar",
+        "slug": "cranberrynektar",
         "emoji": "🔴",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4530,6 +4951,7 @@
       },
       {
         "name": "Orangensaft",
+        "slug": "orangensaft",
         "emoji": "🍊",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4540,6 +4962,7 @@
       },
       {
         "name": "Tomatensaft",
+        "slug": "tomatensaft",
         "emoji": "🍅",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4555,6 +4978,7 @@
     "list": [
       {
         "name": "Cola",
+        "slug": "cola",
         "emoji": "🥫",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4565,6 +4989,7 @@
       },
       {
         "name": "Energy-Drinks",
+        "slug": "energydrinks",
         "emoji": "🥫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4575,6 +5000,7 @@
       },
       {
         "name": "Esrpesso",
+        "slug": "espresso",
         "emoji": "☕",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4585,6 +5011,7 @@
       },
       {
         "name": "Kaffee",
+        "slug": "kaffee",
         "emoji": "☕",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4600,6 +5027,7 @@
     "list": [
       {
         "name": "Hafer-Drink",
+        "slug": "haferdrink",
         "emoji": "🌾",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4610,6 +5038,7 @@
       },
       {
         "name": "Reismilch, Reis-Drink",
+        "slug": "reismilch",
         "emoji": "🍚",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4620,6 +5049,7 @@
       },
       {
         "name": "Sojamilch, Soja-Drink",
+        "slug": "sojamilch",
         "emoji": "🌱",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4631,10 +5061,11 @@
     ]
   },
   "Süßgetränke, Limonaden": {
-    "name": "Süßgetränke / Limonaden",
+    "name": "Süßgetränke & Limonaden",
     "list": [
       {
         "name": "Heisse Schokolade, heiße Schokolade",
+        "slug": "heisseschokolade",
         "emoji": "☕",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4645,6 +5076,7 @@
       },
       {
         "name": "Holunderblütensirup",
+        "slug": "holunderbluetensirup",
         "emoji": "🌸",
         "verträglichkeit": 0,
         "histamin": "",
@@ -4655,6 +5087,7 @@
       },
       {
         "name": "Kakaogetränke",
+        "slug": "kakaogetraenke",
         "emoji": "☕",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4665,6 +5098,7 @@
       },
       {
         "name": "Limonadengetränke",
+        "slug": "limonadengetraenke",
         "emoji": "🥤",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4675,6 +5109,7 @@
       },
       {
         "name": "Ovomaltine",
+        "slug": "ovomaltine",
         "emoji": "🥫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4685,6 +5120,7 @@
       },
       {
         "name": "Schokoladengetränke",
+        "slug": "schokoladengetraenke",
         "emoji": "☕",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4703,6 +5139,7 @@
     "list": [
       {
         "name": "Folsäure, Folat, Vitamin B9",
+        "slug": "folsaeure",
         "emoji": "🧪",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4713,6 +5150,7 @@
       },
       {
         "name": "Iod, Jod",
+        "slug": "iod",
         "emoji": "🧪",
         "verträglichkeit": 3,
         "histamin": "",
@@ -4723,6 +5161,7 @@
       },
       {
         "name": "Jodsalz, Iodsalz (Jodzusatz in Form von Kaliumiodid, Kaliumjodid, Kaliumiodat, Kaliumjodat)",
+        "slug": "jodsalz",
         "emoji": "🧂",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4733,6 +5172,7 @@
       },
       {
         "name": "Jodtabletten für den atomaren Störfall",
+        "slug": "jodtabletten",
         "emoji": "💊",
         "verträglichkeit": 3,
         "histamin": "",
@@ -4743,6 +5183,7 @@
       },
       {
         "name": "Kaliumiodat, Kaliumjodat",
+        "slug": "kaliumiodat",
         "emoji": "🧪",
         "verträglichkeit": 3,
         "histamin": "",
@@ -4753,6 +5194,7 @@
       },
       {
         "name": "Kaliumiodid, Kaliumjodid",
+        "slug": "kaliumiodid",
         "emoji": "🧪",
         "verträglichkeit": 3,
         "histamin": "",
@@ -4763,6 +5205,7 @@
       },
       {
         "name": "Kochsalz iodiert / jodiert",
+        "slug": "kochsalziodiert",
         "emoji": "🧂",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4773,6 +5216,7 @@
       },
       {
         "name": "Theobromin",
+        "slug": "theobromin",
         "emoji": "🧪",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4788,6 +5232,7 @@
     "list": [
       {
         "name": "Lakritze",
+        "slug": "lakritze",
         "emoji": "⚫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4798,6 +5243,7 @@
       },
       {
         "name": "Marzipan",
+        "slug": "marzipan",
         "emoji": "🧈",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4808,6 +5254,7 @@
       },
       {
         "name": "Schokolade, braun / schwarz / dunkel",
+        "slug": "schokoladebraun",
         "emoji": "🍫",
         "verträglichkeit": 2,
         "histamin": "",
@@ -4818,6 +5265,7 @@
       },
       {
         "name": "Schokolade, weiß",
+        "slug": "schokoladeweiss",
         "emoji": "🍫",
         "verträglichkeit": 1,
         "histamin": "",
@@ -4828,6 +5276,7 @@
       },
       {
         "name": "Senf (Zubereitung)",
+        "slug": "senf",
         "emoji": "🍯",
         "verträglichkeit": 2,
         "histamin": "H",
@@ -4838,6 +5287,7 @@
       },
       {
         "name": "Tofu",
+        "slug": "tofu",
         "emoji": "⬜",
         "verträglichkeit": 2,
         "histamin": "",
