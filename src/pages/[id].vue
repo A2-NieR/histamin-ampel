@@ -1,8 +1,8 @@
 <script setup lang="ts">
+import router from '~/router'
 import data from '../data/histamine.json'
 import ListItem from '~/components/ListItem.vue'
 import NavBack from '~/components/NavBack.vue'
-import Footer from '~/components/Footer.vue'
 
 const props = defineProps({
   id: String
@@ -39,7 +39,7 @@ const histamine = [
 </script>
 
 <template>
-  <div h="full" bg="light-300 dark:dark-300" text="dark-900 dark:light-100">
+  <div bg="light-300 dark:dark-300" text="dark-900 dark:light-100">
     <div
       h="12"
       w="full"
@@ -54,13 +54,15 @@ const histamine = [
       <NavBack />
       <span font="bold">{{ histamine[parseInt(props.id)].name }}</span>
     </div>
-    <ul v-if="props.id" display="flex" flex="col" h="full" p="y-14">
+    <ul v-if="props.id" display="flex" flex="col" h="screen" p="y-14">
       <li v-for="item in histamine[parseInt(props.id)].list">
-        <ListItem :item="item" :level="item.verträglichkeit" />
+        <ListItem
+          @click="router.push({ path: `/details/${item.slug}` })"
+          :item="item"
+          :level="item.verträglichkeit"
+        />
       </li>
     </ul>
-
-    <!-- <Footer /> -->
   </div>
 </template>
 

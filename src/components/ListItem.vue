@@ -53,6 +53,7 @@ if (props.item) {
       border="rounded-full"
       bg="white"
       font="bold"
+      shadow="inner"
       :class="`${txtColor}`"
       >{{ item.verträglichkeit }}</span
     >
