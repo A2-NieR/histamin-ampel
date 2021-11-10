@@ -4,7 +4,7 @@ import Header from '~/components/Header.vue'
 
 <template>
   <div>
-    <Header title="ℹ Info" />
+    <Header title="Info" />
 
     <div h="screen" display="flex" flex="col" overflow="scroll" p="t-22 x-5">
       <span display="inline-flex" justify="center" p="b-3" text="lg" font="bold"
@@ -44,7 +44,7 @@ import Header from '~/components/Header.vue'
           bg-gradient-to-b
           from-green-500
           to-lime-500
-          dark:from-green-700 dark:to-lime-700
+          dark:from-green-600 dark:to-lime-600
         "
         text="white"
         border="rounded"
@@ -74,7 +74,7 @@ import Header from '~/components/Header.vue'
           bg-gradient-to-b
           from-orange-500
           to-amber-500
-          dark:from-orange-700 dark:to-amber-700
+          dark:from-orange-600 dark:to-amber-600
         "
         text="white"
         border="rounded"
