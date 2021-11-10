@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/BunnyTheLifeguard/histamin-ampel/compare/v1.0.1...v1.1.0) (2021-11-10)
+
+
+### Bug Fixes
+
+* :lipstick: searchbar position & update prompt layout ([9e1a648](https://github.com/BunnyTheLifeguard/histamin-ampel/commit/9e1a6487dd8dbbebbeea02b25b641778cd606e44))
+
+
+### Features
+
+* :sparkles: pwa install prompt for ios ([3a2a65b](https://github.com/BunnyTheLifeguard/histamin-ampel/commit/3a2a65b44305fb5bcf6f58dd351d57b59c80d17a))
+
 ## [1.0.1](https://github.com/BunnyTheLifeguard/histamin-ampel/compare/v1.0.0...v1.0.1) (2021-11-10)
 
 
