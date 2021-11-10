@@ -27,7 +27,7 @@ const props = defineProps({
       h="6"
       w="6"
       pos="absolute right-5"
-      text="blue-500 dark:yellow-400"
+      text="blue-500 dark:light-blue-500"
       @click="router.push({ path: '/info' })"
     />
   </div>

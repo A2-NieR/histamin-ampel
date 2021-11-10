@@ -40,7 +40,12 @@ import Header from '~/components/Header.vue'
       <span
         m="b-1"
         p="y-2 x-3"
-        bg="green-500 dark:green-700"
+        class="
+          bg-gradient-to-b
+          from-green-500
+          to-lime-500
+          dark:from-green-700 dark:to-lime-700
+        "
         text="white"
         border="rounded"
         font="semibold"
@@ -50,8 +55,13 @@ import Header from '~/components/Header.vue'
       <span
         m="b-1"
         p="y-2 x-3"
-        bg="yellow-500 dark:yellow-600"
-        text="white"
+        class="
+          bg-gradient-to-b
+          from-yellow-400
+          to-yellow-300
+          dark:from-yellow-500 dark:to-yellow-400
+        "
+        text="black"
         border="rounded"
         font="semibold"
         >1: Mäßig verträglich, geringfügige Symptome, gelegentlicher Konsum
@@ -60,7 +70,12 @@ import Header from '~/components/Header.vue'
       <span
         m="b-1"
         p="y-2 x-3"
-        bg="orange-500 dark:orange-700"
+        class="
+          bg-gradient-to-b
+          from-orange-500
+          to-amber-500
+          dark:from-orange-700 dark:to-amber-700
+        "
         text="white"
         border="rounded"
         font="semibold"
@@ -69,7 +84,12 @@ import Header from '~/components/Header.vue'
       <span
         m="b-1"
         p="y-2 x-3"
-        bg="red-500 dark:red-700"
+        class="
+          bg-gradient-to-b
+          from-red-600
+          to-orange-600
+          dark:from-red-700 dark:to-orange-700
+        "
         text="white"
         border="rounded"
         font="semibold"
@@ -81,7 +101,12 @@ import Header from '~/components/Header.vue'
       <span
         m="b-5"
         p="y-2 x-3"
-        bg=" blue-gray-500 dark:blue-gray-600"
+        class="
+          bg-gradient-to-b
+          from-blue-gray-500
+          to-gray-400
+          dark:from-blue-gray-600 dark:to-gray-500
+        "
         text="white"
         border="rounded"
         font="semibold"
