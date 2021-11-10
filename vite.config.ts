@@ -16,7 +16,39 @@ export default defineConfig({
 
   plugins: [
     vue(),
-    VitePWA({}),
+    VitePWA({
+      includeAssets: [
+        'favicon.svg',
+        'favicon.ico',
+        'robots.txt',
+        'apple-touch-icon.png'
+      ],
+      manifest: {
+        name: 'Histamin Ampel',
+        short_name: 'histaminamp',
+        description:
+          'Digitales Nachschlagewerk zur Vermeidung histaminhaltiger Nahrungsmittel.',
+        theme_color: '#ffffff',
+        icons: [
+          {
+            src: 'pwa-192x192.png',
+            sizes: '192x192',
+            type: 'image/png'
+          },
+          {
+            src: 'pwa-512x512.png',
+            sizes: '512x512',
+            type: 'image/png'
+          },
+          {
+            src: 'pwa-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            purpose: 'any maskable'
+          }
+        ]
+      }
+    }),
 
     // https://github.com/hannoeru/vite-plugin-pages
     Pages(),

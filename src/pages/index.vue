@@ -2,6 +2,7 @@
 import ItemList from '~/components/ItemList.vue'
 import Header from '~/components/Header.vue'
 import Searchbar from '~/components/Searchbar.vue'
+import UpdatePrompt from '~/components/UpdatePrompt.vue'
 </script>
 
 <template>
@@ -9,6 +10,7 @@ import Searchbar from '~/components/Searchbar.vue'
     <Header title="Histamin Ampel 🚥" />
     <Searchbar />
     <ItemList />
+    <UpdatePrompt />
   </div>
 </template>
 
