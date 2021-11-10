@@ -1,3 +1,13 @@
+## [1.1.1](https://github.com/BunnyTheLifeguard/histamin-ampel/compare/v1.1.0...v1.1.1) (2021-11-10)
+
+
+### Bug Fixes
+
+* :lipstick: dark navback arrow color ([93284ef](https://github.com/BunnyTheLifeguard/histamin-ampel/commit/93284ef3db7aa9e0eab751a4e6f4236c3a2bf356))
+* :lipstick: gradient colors & fix dark colors ([31a8120](https://github.com/BunnyTheLifeguard/histamin-ampel/commit/31a8120a2ecd249ced5b94e71b014c0bb7842623))
+* :lipstick: remove info emoji, fix info dark colors ([b55883e](https://github.com/BunnyTheLifeguard/histamin-ampel/commit/b55883e803cd273bfad0cf79304101f3298cc931))
+* :lipstick: update prompt bc color dark ([e0107a2](https://github.com/BunnyTheLifeguard/histamin-ampel/commit/e0107a2ec2266a9e5426cbf8d57a2005b4bd0706))
+
 # [1.1.0](https://github.com/BunnyTheLifeguard/histamin-ampel/compare/v1.0.1...v1.1.0) (2021-11-10)
 
 
