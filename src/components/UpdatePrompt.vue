@@ -14,25 +14,23 @@ const close = async () => {
     v-if="offlineReady || needRefresh"
     class="pwa-toast"
     role="alert"
+    w="full"
     pos="fixed bottom-0"
-    p="3"
+    p="5"
     bg="light-100 dark:300"
-    text="current dark:white"
+    text="sm black dark:white"
     shadow="~"
   >
-    <div class="message" p="b-3">
+    <div class="message" p="b-3" text="center">
       <span v-if="offlineReady"> App funktioniert offline </span>
-      <span v-else>
-        Ein neues Update ist verfügbar. Zum Aktualisieren bitte auf Update
-        klicken.
-      </span>
+      <span v-else> Ein neues Update ist verfügbar. </span>
     </div>
     <div display="flex" justify="center">
       <button
         v-if="needRefresh"
         m="r-2"
         p="y-1 x-3"
-        gradient="to-br from-blue-500 to-blue-400"
+        gradient="to-br from-blue-500 to-light-blue-500"
         text="white"
         border="rounded"
         @click="updateServiceWorker()"
@@ -42,7 +40,7 @@ const close = async () => {
       <button
         m="r-1"
         p="y-1 x-3"
-        gradient="to-br from-gray-400 to-gray-300"
+        gradient="to-br from-gray-400 to-warm-gray-400"
         text="white"
         border="rounded"
         @click="close"

@@ -25,7 +25,7 @@ export default defineConfig({
       ],
       manifest: {
         name: 'Histamin Ampel',
-        short_name: 'histaminamp',
+        short_name: 'Histamin Ampel',
         description:
           'Digitales Nachschlagewerk zur Vermeidung histaminhaltiger Nahrungsmittel.',
         theme_color: '#ffffff',
