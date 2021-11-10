@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import data from '../../data/histamine.json'
-import NavBack from '~/components/NavBack.vue'
+import Header from '~/components/Header.vue'
 
 const props = defineProps({
   id: String
@@ -71,7 +71,7 @@ if (details.verträglichkeit === 0) {
     'Gut verträglich. Bei üblicher Verzehrmenge sind keinerlei Symptome zu erwarten.'
 } else if (details.verträglichkeit === 1) {
   verträglichkeit =
-    'Mässig verträglich, geringfügige Symptome, gelegentlicher Konsum kleiner Mengen wird oft toleriert.'
+    'Mäßig verträglich, geringfügige Symptome, gelegentlicher Konsum kleiner Mengen wird oft toleriert.'
 } else if (details.verträglichkeit === 2) {
   verträglichkeit =
     'Unverträglich, deutliche Symptome bei üblicher Verzehrsmenge.'
@@ -115,28 +115,15 @@ if (details.blocker === 'B') {
 </script>
 
 <template>
-  <div
-    h="18"
-    w="full"
-    z="50"
-    pos="fixed"
-    display="flex"
-    align="items-center"
-    justify="center"
-    bg="light-100 dark:dark-200"
-    text="dark:white"
-    shadow="~"
-  >
-    <NavBack />
-    <span font="bold">{{ details.emoji }}</span>
-  </div>
+  <Header :title="details.emoji" />
+
   <div
     v-if="details"
     display="flex"
     flex="col"
     overflow="scroll"
     h="screen"
-    p="t-24"
+    p="t-20"
     :class="bgColor"
     text="white"
   >
@@ -145,9 +132,9 @@ if (details.blocker === 'B') {
     </div>
     <div display="flex" justify="center">
       <span
-        h="40"
-        w="40"
-        m="y-20"
+        h="38"
+        w="38"
+        m="y-12"
         bg="white opacity-10"
         border="rounded-full"
         display="flex"
@@ -160,12 +147,12 @@ if (details.blocker === 'B') {
     </div>
 
     <div display="flex" flex="col" p="x-10">
-      <div m="b-5">{{ verträglichkeit }}</div>
-      <div m="b-2"><span font="semibold">Histamin:</span> {{ histamin }}</div>
-      <div m="b-2"><span font="semibold">Amine:</span> {{ amine }}</div>
-      <div m="b-2"><span font="semibold">Liberator:</span> {{ liberator }}</div>
-      <div m="b-2"><span font="semibold">Blocker:</span> {{ blocker }}</div>
-      <div m="b-10">
+      <div m="b-3">{{ verträglichkeit }}</div>
+      <div m="b-1"><span font="semibold">Histamin:</span> {{ histamin }}</div>
+      <div m="b-1"><span font="semibold">Amine:</span> {{ amine }}</div>
+      <div m="b-1"><span font="semibold">Liberator:</span> {{ liberator }}</div>
+      <div m="b-1"><span font="semibold">Blocker:</span> {{ blocker }}</div>
+      <div m="b-2">
         <span font="semibold">Anmerkungen:</span> {{ details.anmerkungen }}
       </div>
     </div>

@@ -2,7 +2,7 @@
 import router from '~/router'
 import data from '../data/histamine.json'
 import ListItem from '~/components/ListItem.vue'
-import NavBack from '~/components/NavBack.vue'
+import Header from '~/components/Header.vue'
 
 const props = defineProps({
   id: String
@@ -42,27 +42,15 @@ const histamine = [
 
 <template>
   <div bg="light-300 dark:dark-300" text="dark-900 dark:light-100">
-    <div
-      h="18"
-      w="full"
-      z="50"
-      pos="fixed"
-      display="flex"
-      align="items-center"
-      justify="center"
-      bg="light-100 dark:dark-300"
-      shadow="~"
-    >
-      <NavBack />
-      <span font="bold">{{ histamine[parseInt(props.id)].name }}</span>
-    </div>
+    <Header :title="histamine[parseInt(props.id)].name" />
+
     <ul
       v-if="props.id"
       h="screen"
       display="flex"
       flex="col"
       overflow=" scroll"
-      p="t-20"
+      p="t-18 b-2"
     >
       <li v-for="item in histamine[parseInt(props.id)].list">
         <ListItem
