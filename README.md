@@ -1,4 +1,4 @@
-## Histamin Ampel
+# Histamin Ampel
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhistamin-ampel.netlify.app%2F)
 ![Netlify](https://img.shields.io/netlify/449b0130-8707-44c0-8840-9971376e8fb0)
