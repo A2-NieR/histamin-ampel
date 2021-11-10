@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/BunnyTheLifeguard/histamin-ampel/compare/v1.0.0...v1.0.1) (2021-11-10)
+
+
+### Bug Fixes
+
+* :pencil2: typo ([9cf232e](https://github.com/BunnyTheLifeguard/histamin-ampel/commit/9cf232e7d8bd7473a5eeb5e44180657c894ad35a))
+
 # 1.0.0 (2021-11-10)
 
 
