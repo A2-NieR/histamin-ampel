@@ -1,25 +1,12 @@
 <script setup lang="ts">
-import NavBack from '~/components/NavBack.vue'
+import Header from '~/components/Header.vue'
 </script>
 
 <template>
   <div>
-    <div
-      h="18"
-      w="full"
-      z="50"
-      pos="fixed"
-      display="flex"
-      align="items-center"
-      justify="center"
-      bg="light-100 dark:dark-300"
-      shadow="~"
-    >
-      <NavBack />
-      <span font="bold">ℹ Info</span>
-    </div>
+    <Header title="ℹ Info" />
 
-    <div h="screen" display="flex" flex="col" overflow="scroll" p="t-24 x-5">
+    <div h="screen" display="flex" flex="col" overflow="scroll" p="t-22 x-5">
       <span display="inline-flex" justify="center" p="b-3" text="lg" font="bold"
         >Histamin-Ampel</span
       >
@@ -44,7 +31,7 @@ import NavBack from '~/components/NavBack.vue'
       <span
         display="inline-flex"
         justify="center"
-        p="y-3"
+        p="t-5 b-3"
         text="lg"
         font="semibold"
         >Verträglichkeitsskala</span
@@ -67,7 +54,7 @@ import NavBack from '~/components/NavBack.vue'
         text="white"
         border="rounded"
         font="semibold"
-        >1: Mässig verträglich, geringfügige Symptome, gelegentlicher Konsum
+        >1: Mäßig verträglich, geringfügige Symptome, gelegentlicher Konsum
         kleiner Mengen wird oft toleriert</span
       >
       <span
@@ -111,7 +98,44 @@ import NavBack from '~/components/NavBack.vue'
       <span
         display="inline-flex"
         justify="center"
-        p="y-3"
+        p="t-5 b-3"
+        text="lg"
+        font="semibold"
+        >Wirkungsweise auf den Histaminstoffwechsel</span
+      >
+      <span p="b-3"
+        >Die App dient als grobe Orientierungshilfe für die Einschätzung des
+        Histaminpotentials, d.h. für die dosisabhängige und teils individuell
+        unterschiedliche Verträglichkeit, welche durch verschiedene Mechanismen
+        beeinflusst wird. Der Grund für die Unverträglichkeit ist in der
+        Detailansicht mit folgenden Buchstaben angegeben:</span
+      >
+      <span m="b-1" p="y-1 x-3" font="semibold"
+        >H!: Hoch Verderblich, rasche Histaminbildung</span
+      >
+      <span m="b-1" p="y-1 x-3" font="semibold">H: Hoher Histamingehalt</span>
+      <span m="b-1" p="y-1 x-3" font="semibold">A: Andere biogene Amine</span>
+      <span m="b-1" p="y-1 x-3" font="semibold"
+        >L: Liberatoren von Mastzellmediatoren (=Histaminliberatoren)</span
+      >
+      <span m="b-1" p="y-1 x-3" font="semibold"
+        >B: Blocker (=Hemmstoffe) der Diaminoxidase oder anderer Histamin
+        abbauender Enzyme</span
+      >
+      <span p="y-3"
+        >Je nach körperlicher Ursache sind nicht alle Lebensmittel für alle
+        Betroffenen gleichermaßen unverträglich. Einige reagieren auf
+        Liberatoren stärker als auf Histamin und umgekehrt. Halten Sie sich
+        deshalb bloß zu Beginn ganz strikt an diese Verträglichkeitsliste.
+        Beginnen Sie nach ca. 4-6 Wochen auszuprobieren, was Sie bei Ihrer
+        individuellen Empfindlichkeit in welchen Mengen vertragen, um sich
+        langfristig nicht unnötig einzuschränken.</span
+      >
+
+      <span
+        display="inline-flex"
+        justify="center"
+        p="t-5 b-3"
         text="lg"
         font="semibold"
         >Haftungsausschluss</span
