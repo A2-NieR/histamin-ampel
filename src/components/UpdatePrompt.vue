@@ -17,7 +17,7 @@ const close = async () => {
     w="full"
     pos="fixed bottom-0"
     p="5"
-    bg="light-100 dark:300"
+    bg="light-100 dark:dark-300"
     text="sm black dark:white"
     shadow="~"
   >
