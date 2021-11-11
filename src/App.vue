@@ -4,7 +4,7 @@
     h="screen"
     w="screen"
     bg="light-100 dark:dark-300"
-    text="dark-900 dark:light-100"
+    text="black dark:white"
   />
 </template>
 
