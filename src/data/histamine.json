@@ -5132,7 +5132,22 @@
     ]
   },
 
-  "Zusatzstoffe": [],
+  "Zusatzstoffe": {
+    "name": "Zusatzstoffe",
+    "list": [
+      {
+        "name": "Zusatz Test",
+        "slug": "zusatztest",
+        "emoji": "🧪",
+        "verträglichkeit": "?",
+        "histamin": "",
+        "amine": "",
+        "liberator": "",
+        "blocker": "",
+        "anmerkungen": "Testobjekt"
+      }
+    ]
+  },
 
   "Vitamine, Mineralstoffe, Spurenelemente, Stimulantien": {
     "name": "Vitamine, Mineralstoffe, etc.",
