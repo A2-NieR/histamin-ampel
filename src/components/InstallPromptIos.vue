@@ -32,7 +32,7 @@ if (isIos() && !isInStandaloneMode()) {
   >
     <div class="message" display="flex" align="items-center" p="b-3">
       <span text="sm">
-        Zum Installieren als App auf
+        Zum Installieren als App in Safari auf
         <IconShare h="5" w="5" m="x-1" text="blue-500 dark:light-blue-500" />
         tippen und anschließend zum Startbildschirm hinzufügen
         <IconAdd h="6" w="6" text="black dark:white middle" />
