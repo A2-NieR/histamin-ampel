@@ -6,3 +6,19 @@
 Histamin Ampel is a PWA and provides information about various food items for people who are intolerant to histamines or want to avoid them.
 
 Currently only the German language is supported, English may be added at a later point.
+
+## Home View:
+
+![](/docs/img/home.png)
+
+## Search:
+
+![](/docs/img/search.png)
+
+## List View:
+
+![](/docs/img/list.png)
+
+## Detail View:
+
+![](/docs/img/details.png)
