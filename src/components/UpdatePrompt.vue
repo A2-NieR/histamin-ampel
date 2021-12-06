@@ -16,6 +16,7 @@ const close = async () => {
     class="pwa-toast"
     role="alert"
     w="full"
+    z="50"
     pos="fixed bottom-0"
     p="5"
     bg="light-300 dark:dark-300"

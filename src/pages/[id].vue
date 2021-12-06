@@ -1,4 +1,5 @@
 <script setup lang="ts">
+// @ts-ignore: Unreachable code error
 import router from '~/router'
 import data from '../data/histamine.json'
 import ListItem from '~/components/ListItem.vue'

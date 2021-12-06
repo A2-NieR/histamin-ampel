@@ -1,4 +1,5 @@
 <script setup lang="ts">
+// @ts-ignore: Unreachable code error
 import router from '~/router'
 import IconBack from '~icons/mdi/arrow-left'
 </script>

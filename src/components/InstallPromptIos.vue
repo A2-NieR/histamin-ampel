@@ -24,6 +24,7 @@ if (isIos() && !isInStandaloneMode()) {
     class="ios-toast"
     role="alert"
     w="full"
+    z="50"
     pos="fixed bottom-0"
     p="5"
     bg="light-100 dark:dark-300"

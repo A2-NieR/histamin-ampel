@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from '@vue/reactivity'
+// @ts-ignore: Unreachable code error
 import router from '~/router'
 import data from '../data/histamine.json'
 

@@ -1,10 +1,11 @@
 <script setup lang="ts">
+// @ts-ignore: Unreachable code error
 import router from '~/router'
 import ItemCard from './ItemCard.vue'
 </script>
 
 <template>
-  <div h="full" p="x-5" display="flex" flex="col" overflow="auto">
+  <div h="full" p="x-5 b-14" display="flex" flex="col" overflow="auto">
     <div display="inline-flex" justify="center" text="lg" font="semibold">
       Tierisch
     </div>
