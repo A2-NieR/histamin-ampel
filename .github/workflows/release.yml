@@ -2,6 +2,7 @@ name: Release
 on:
   workflow_run:
     workflows: ['Lint Code Base']
+    branches: [master]
     types:
       - completed
   # push:
