@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useRegisterSW } from 'virtual:pwa-register/vue'
+import IconClose from '~icons/mdi/close-thick'
 
 const { offlineReady, needRefresh, updateServiceWorker } = useRegisterSW()
 
@@ -17,36 +18,28 @@ const close = async () => {
     w="full"
     pos="fixed bottom-0"
     p="5"
-    bg="light-100 dark:dark-300"
+    bg="light-300 dark:dark-300"
     text="sm black dark:white"
     shadow="~"
   >
-    <div class="message" p="b-3" text="center">
+    <div class="message" p="b-4" text="center">
       <span v-if="offlineReady"> App funktioniert offline </span>
       <span v-else> Ein neues Update ist verfügbar. </span>
     </div>
     <div display="flex" justify="center">
       <button
         v-if="needRefresh"
-        m="r-2"
-        p="y-1 x-3"
+        p="y-3 x-7"
         gradient="to-br from-blue-500 to-light-blue-500"
         text="white"
+        font="semibold"
         border="rounded"
+        shadow="~"
         @click="updateServiceWorker()"
       >
-        Update
+        Aktualisieren
       </button>
-      <button
-        m="r-1"
-        p="y-1 x-3"
-        gradient="to-br from-gray-400 to-warm-gray-400"
-        text="white"
-        border="rounded"
-        @click="close"
-      >
-        Abbrechen
-      </button>
+      <IconClose @click="close" pos="absolute right-3 top-3" text="gray-400" />
     </div>
   </div>
 </template>
