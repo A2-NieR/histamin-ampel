@@ -8,6 +8,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@capacitor/clipboard": "^1.0.6",
+    "@capacitor/core": "^3.3.2",
     "vue": "^3.2.13",
     "vue-router": "^4.0.11"
   },

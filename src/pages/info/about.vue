@@ -4,9 +4,15 @@ import Header from '~/components/Header.vue'
 
 <template>
   <div>
-    <Header title="Info" />
+    <Header title="ℹ️ Hinweise" />
 
-    <div h="screen" display="flex" flex="col" overflow="scroll" p="t-22 x-5">
+    <div
+      h="screen"
+      display="flex"
+      flex="col"
+      overflow="scroll"
+      p="t-22 x-5 b-5"
+    >
       <span display="inline-flex" justify="center" p="b-3" text="lg" font="bold"
         >Histamin-Ampel</span
       >
@@ -79,7 +85,7 @@ import Header from '~/components/Header.vue'
         text="white"
         border="rounded"
         font="semibold"
-        >2: Unverträglich, deutliche Symptome bei üblicher Verzehrsmenge.</span
+        >2: Unverträglich, deutliche Symptome bei üblicher Verzehrmenge.</span
       >
       <span
         m="b-1"

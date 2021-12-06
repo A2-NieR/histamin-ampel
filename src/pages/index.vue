@@ -4,6 +4,7 @@ import Header from '~/components/Header.vue'
 import Searchbar from '~/components/Searchbar.vue'
 import UpdatePrompt from '~/components/UpdatePrompt.vue'
 import InstallPromptIos from '~/components/InstallPromptIos.vue'
+import Footer from '~/components/Footer.vue'
 </script>
 
 <template>
@@ -13,6 +14,7 @@ import InstallPromptIos from '~/components/InstallPromptIos.vue'
     <ItemList />
     <UpdatePrompt />
     <InstallPromptIos />
+    <Footer />
   </div>
 </template>
 
